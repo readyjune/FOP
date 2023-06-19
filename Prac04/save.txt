@@ -1,0 +1,10 @@
+
+Converting between temperature formats
+
+hllHLL
+OLLEHOLLEH
+Enter selection: (A)Exit, (B)fahr2cel, (C)fahr2kel, (D)cel2fahr, (E)cel2kel, (F)kel2cel, (G)kel2fahr...
+Enter temperature 
+-1.1111111111111112  (If you want keep to do another conversion? 'Y' or 'N)'
+Bye, see you soon
+

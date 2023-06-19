@@ -1,0 +1,21 @@
+Prac04_90021907
+Prac04_90021907 2
+Prac04_90021907 3
+Prac04_90021907.zip
+README
+__pycache__
+competition_v1.py
+competition_v2.py
+competition_v3.py
+conversions.py
+converter.py
+converter2.py
+files.txt
+hist.txt
+prettyface.py
+temps.txt
+tempsout.txt
+testConversions.py
+testing.py
+textfun.py
+zeros.py
