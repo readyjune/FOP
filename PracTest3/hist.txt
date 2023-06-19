@@ -1,0 +1,4865 @@
+   50  cd ..
+   51  ls
+   52  cd/
+   53  cd /
+   54  ls
+   55  cd/jinwookim@gim/FOP
+   56  cd desktop
+   57  cd Desktop
+   58  pwd
+   59  cd /
+   60  ls
+   61  cd Users
+   62  ls
+   63  cd jinwookim
+   64  ls
+   65  pwd
+   66  cd FOP
+   67  ls
+   68  cd Prac03
+   69  ls
+   70  vim 연습
+   71  clear
+   72  python3 연습
+   73  vim 연습
+   74  print('hello')
+   75  ls
+   76  cd practice
+   77  pwd
+   78  cd practice
+   79  rm practice
+   80  ls
+   81  vim practice
+   82  python3 first.py
+   83  vim practice
+   84  python3 first.py
+   85  vim practice
+   86  python3 first.py
+   87  pwq
+   88  pwd
+   89  ls
+   90  rm practice
+   91  ls
+   92  mkdir practice
+   93  ls
+   94  cd mkdir
+   95  cd practice
+   96  pwd
+   97  vim personal practice 1
+   98  clear
+   99  ls
+  100  python3 personal
+  101  vim personal practice 1
+  102  python3 numbers1.py
+  103  vim personal practice 1
+  104  python3 personal practice 1
+  105  vim personal practice 1
+  106  python3 personal practice 1.py
+  107  ls
+  108  rm personal
+  109  ls
+  110  pwd
+  111  cd jinwookim
+  112  ls
+  113  pwd
+  114  rmdir practice
+  115  rm practice
+  116  cd jinwookim
+  117  rm practice
+  118  ls
+  119  vim numbers1.py
+  120  python3 numbers.py
+  121  python3 numbers1.py
+  122  ls
+  123  vim nubers1.py
+  124  python3 numbers1.py
+  125  vim nubers1.py
+  126  python3 numbers1.py
+  127  vim nubers1.py
+  128  ls
+  129  rm nubers1.py
+  130  ls
+  131  vim numbers1.py
+  132  python3 numbers1.py
+  133  vim numbers1.py
+  134  python3 numbers1.py
+  135  python3 numbers1.py
+  136  vim numbers1.py
+  137  python3 numbers1.py
+  138  python3 numbers1.py
+  139  vim numbers1.py
+  140  python3 numbers1.py
+  141  vim numbers1.py
+  142  python3 numbers1.py
+  143  vim numbers1.py
+  144  python3 numbers1.py
+  145  vim numbers1.py
+  146  vim numbers1.py
+  147  python3 numbers1.py
+  148  python3 numbers1.py
+  149  vim numbers1.py
+  150  python3 numbers1.py
+  151  vim numbers1.py
+  152  python3 numbers1.py
+  153  vim numbers1.py
+  154  python3 numbers1.py
+  155  python3 numbers1.py
+  156  python3 numbers1.py
+  157  vim numbers1.py
+  158  python3 numbers1.py
+  159  vim numbers1.py
+  160  python3 numbers1.py
+  161  python3 numbers1.py
+  162  vim numbers1.py
+  163  vim numbers1.py
+  164  python3 numbers1.py
+  165  vim numbers1.py
+  166  python3 numbers1.py
+  167  vim numbers1.py
+  168  python3 numbers1.py
+  169  vim numbers1.py
+  170  python3 numbers1.py
+  171  vim numbers1.py
+  172  python3 numbers1.py
+  173  vim numbers1.py
+  174  python3 numbers1.py
+  175  vim numbers1.py
+  176  python3 numbers1.py
+  177  vim numbers1.py
+  178  python3 numbers1.py
+  179  vim numbers1.py
+  180  python3 numbers1.py
+  181  vim numbers1.py
+  182  python3 numbers1.py
+  183  vim numbers1.py
+  184  python3 numbers1.py
+  185  vim numbers1.py
+  186  python3 numbers1.py
+  187  vim numbers1.py
+  188  python3 numbers1.py
+  189  vim numbers1.py
+  190  python3 numbers1.py
+  191  vim numbers1.py
+  192  python3 numbers1.py
+  193  vim numbers1.py
+  194  clear
+  195  pwd
+  196  cd jinwookim
+  197  ls
+  198  pwd
+  199  cd jinwookim
+  200  cd FOP
+  201  cd <jinwookim>
+  202  ls
+  203  pwd
+  204  cd jinwookim
+  205  cd<jinwookim>
+  206   ls
+  207  pwd
+  208  pwd
+  209  cd jinwookim
+  210  ls
+  211  cd FOP
+  212  ls
+  213  pwd
+  214  cd jinwookim
+  215  ls
+  216  pwd
+  217  cd ..
+  218  ls
+  219  cd practice
+  220  ls
+  221  vim numbers1.py
+  222  python3 numbers1.py
+  223  vim numbers1.py
+  224  python3 numbers1.py
+  225  vim numbers1.py
+  226  python3 numbers1.py
+  227  vim numbers1.py
+  228  cd ..
+  229  ls
+  230  cd FOP
+  231  ls
+  232  ls
+  233  ls
+  234  pwd
+  235  mkdir PracTest1
+  236  pwd
+  237  pwd
+  238  ls
+  239  cd PracTest1
+  240  pwd
+  241  mkdir Dir1
+  242  pwd
+  243  pwd
+  244  ls
+  245  mkdir Subdir1
+  246  ls
+  247  rm Dir1
+  248  ls
+  249  pwd
+  250  pwd
+  251  ls
+  252  rmdir Dir1
+  253  ls
+  254  pwd
+  255  pwd
+  256  ls
+  257  cd Subdir1
+  258  pwd
+  259  cd ..
+  260  ls
+  261  rmdir subdir1
+  262  ls
+  263  pwd
+  264  mkdir Dir1
+  265  ls
+  266  pwd
+  267  cd Dir1
+  268  pwd
+  269  mkdir Subdir1
+  270  ls
+  271  pwd
+  272  pwd
+  273  ls
+  274  clear
+  275  pwd
+  276  ls
+  277  pwd
+  278  cd Subdir1
+  279  ls
+  280  pwd
+  281  vim practest1.py
+  282  python3 practest1.py
+  283  vim practest1.py
+  284  python3 practest1.py
+  285  vim practest1.py
+  286  python3 practest1.py
+  287  vim practest1.py
+  288  python3 practest1.py
+  289  wq
+  290  vim practest1.py
+  291  wq
+  292  python3 practest1.py
+  293  vim practest1.py
+  294  python3 practest1.py
+  295  vim practest1.py
+  296  python3 practest1.py
+  297  vim practest1.py
+  298  vim practest1.py
+  299  python3 practest1.py
+  300  vim practest1.py
+  301  python3 practest1.py
+  302  vim practest1.py
+  303  python3 practest1.py
+  304  vim practest1.py
+  305  python3 practest1.py
+  306  vim practest1.py
+  307  python3 practest1.py
+  308  clear
+  309  python3 practest1.py
+  310  vim practest1.py
+  311  python3 practest1.py
+  312  vim practest1.py
+  313  python3 practest1.py
+  314  vim practest1.py
+  315  python3 practest1.py
+  316  vim practest1.py
+  317  python3 practest1.py
+  318  vim practest1.py
+  319  python3 practest1.py
+  320  vim practest1.py
+  321  python3 practest1.py
+  322  vim practest1.py
+  323  python3 practest1.py
+  324  vim practest1.py
+  325  python3 practest1.py
+  326  vim practest1.py
+  327  python3 practest1.py
+  328  vim practest1.py
+  329  python3 practest1.py
+  330  vim practest1.py
+  331  python3 practest1.py
+  332  vim practest1.py
+  333  python3 practest1.py
+  334  vim practest1.py
+  335  python3 practest1.py
+  336  vim practest1.py
+  337  helloworld
+  338  python3 practest1.py
+  339  vim practest1.py
+  340  cp FOP/Prac01/README FOP/PracTest1/Dir1/Subdir1
+  341  cp Prac01/README PracTest1/Dir1/Subdir1
+  342  vim practest1.py
+  343  python3 practest1.py
+  344  vim practest1.py
+  345  python3 practest1.py
+  346  cp Prac01/README PracTest1/Dir1/Subdir1
+  347  ls
+  348  pwd
+  349  cd ..
+  350  pwd
+  351  cd
+  352  cd..
+  353  cd ..
+  354  pwd
+  355  ls
+  356  cd jinwookim
+  357  ls
+  358  cd FOP
+  359  ls
+  360  cd Prac01
+  361  ls
+  362  cd ..
+  363  pwd
+  364  ls
+  365  cd PracTest1
+  366  ls
+  367  cd Dir1
+  368  ls
+  369  cd Subdir1
+  370  ls
+  371  pwd
+  372  cp Users/jinwookim/FOP/Prac01/README Users/jinwookim/FOPPracTest1/Dir1/Subdir1
+  373  cp 'Prac01/README' 'PracTest1/Dir1/Subdir1'
+  374  clear
+  375  cp README/Prac01 Subdir1/Dir1/PracTest1
+  376  cp /Prac01/README /PracTest1/Dir1/Subdir1
+  377  cp /Prac01/README.txt /PracTest1/Dir1/Subdir1
+  378  cp /Prac02/README /PracTest1/Dir1/Subdir1
+  379  cp Prac01/README PracTest1/Dir1/Subdir1
+  380  cp Prac01/README PracTest1/Dir1/Subdir1
+  381  python3 PracTest1.py
+  382  history > hist.txt
+  383  ls
+  384  rm hist.txt
+  385  ls
+  386  cd ..
+  387  ls
+  388  cd ..
+  389  ls
+  390  mkdir Dir2
+  391  ls
+  392  mkdir Dir3
+  393  ls
+  394  cd Dir1
+  395  ls
+  396  cp Subdir1/Dir1/PracTest1/Fop/Prac01/README .
+  397  cp Subdir1/Dir1/PracTest1/Fop/Prac01/README .
+  398  cp Subdir1/Dir1/PracTest1/Fop/Prac01/README .
+  399  cp Subdir1/Dir1/PracTest1/Fop README/Prac01/FOP .
+  400  cp REAEME/Prac01/FOP Subdir1/Dir1/PracTest1/FOP .
+  401  clear
+  402  CP
+  403  clear
+  404  cp Subdir1/Dir1/PracTest1/FOP/Prac01/README .
+  405  cp Subdir1/Dir1/PracTest1/FOP/Prac01/README .
+  406  clear
+  407  ls
+  408  cd Subdir1
+  409  pwd
+  410  ls
+  411  pwd
+  412  cp Subdir1/Dir1/PracTest1/FOP/Prac01/README .
+  413  cp ../../../../Prac01/README .
+  414  cp Subdir1/Dir1/PracTest1/FOP/Prac01/README .
+  415  ls
+  416  ..
+  417  ls -l
+  418  lls
+  419  ls
+  420  pwd
+  421  cd ..
+  422  pwd
+  423  cd ..
+  424  pwd
+  425  cd ..
+  426  ls
+  427  cd Prac01
+  428  ls
+  429  cd ..
+  430  ls
+  431  cd PracTest1
+  432  ls
+  433  cd Dir1
+  434  ls
+  435  cd Subdir1
+  436  ls
+  437  clear
+  438  cp  ..
+  439  cp ../../../Prac01/README .
+  440  ls
+  441  vim README
+  442  ls
+  443  history > hist.txt
+  444  ls
+  445  zip -r PracTest_90021907 PracTest1
+  446  zip -r practest_90021907 practest1
+  447  cd ..
+  448  ls
+  449  cd ..
+  450  ls
+  451  cd ..
+  452  ls
+  453  zip -r PracTest1_90021907 PracTest1
+  454  ls
+  455  cd PracTest1
+  456  ls
+  457  cd Dir1
+  458  ls
+  459  cd Subdir1
+  460  ls
+  461  vim README
+  462  ls
+  463  pip3 install
+  464  pip install --upgrade pip
+  465  pip3 install --upgrade pip
+  466  sudo pip3 install --upgrade pip
+  467  pip3 install numpuy
+  468  pip3 install numpy
+  469  pip3 install matplotlib
+  470  pip3 install scipy
+  471  pip3 install jupyter
+  472  pip3 install pandas
+  473  ls
+  474  vim README
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd ..
+  479  ls
+  480  cd ..
+  481  ls
+  482  cd Prac02
+  483  ls
+  484  rm june.py
+  485  ls
+  486  vim README
+  487  vim README
+  488  ls
+  489  cd FOP
+  490  ls
+  491  zip -r PracTest1_90021907jinwookim PracTest1 *
+  492  ls
+  493  ls
+  494  mk PracTest1_90021907jinwookim.zip
+  495  rm PracTest1_90021907jinwookim.zip
+  496  ls
+  497  ls
+  498  cd FOP
+  499  ls
+  500  cd Prac01
+  501  ls
+  502  cd ..
+  503  ls
+  504  cd Prac03
+  505  ls
+  506  ls
+  507  rm 연습
+  508  ls
+  509  cp ../Prac01/growth.py
+  510  ls
+  511  ks
+  512  cd PracTest1
+  513  cd ..
+  514  ls
+  515  cd PracTest1
+  516  ls
+  517  cd Dir1
+  518  ls
+  519  cd Subdir1
+  520  ls
+  521  cd hist.txt
+  522  vim hist.txt
+  523  vim practest1.py
+  524  vim README
+  525  cd ..
+  526  ls
+  527  cd ..
+  528  ls
+  529  cd ..
+  530  ls
+  531  cd Prac03
+  532  ls
+  533  ls
+  534  cp ../Prac01/growth.py .
+  535  ls
+  536  vim growth.py
+  537  ls
+  538  rm growth.py
+  539  ls
+  540  vim growthplot.py
+  541  python3 growthplot.py
+  542  matplotlib.pyplot
+  543  python3 growthplot.py
+  544  ls
+  545  cd FOP
+  546  ls
+  547  cd Prac03
+  548  ls
+  549  python3 growthplot.py
+  550  python -m pip install -U pip
+  551  python -m pip install -U matplotlib
+  552  python3 -m pip install -U pip
+  553  python3 -m pip install -U matplotlib
+  554  ls
+  555  python3 growthplot.py
+  556  install metaplot
+  557  install mataplotlib.pyplot
+  558  python3 growthplot.py
+  559  pip3 install matplotlib
+  560  python3 growthplot.py
+  561  ls
+  562  cd FOP
+  563  ls
+  564  cd Prac03
+  565  ls
+  566  python3 growthplot.py
+  567  pip3 install matplotlib
+  568  ls
+  569  python3 growthplot.py
+  570  python -c "from pylab import *; set_loglevel('debug'); plot(); show()"
+  571  sudo port install py36-pip
+  572  sudo port install py36-pip
+  573  ls
+  574  sudo port install py36-pip
+  575  python3 -mpip install matplotlib
+  576  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 -m pip install --upgrade pip
+  577  python3 -mpip install matplotlib
+  578  python3 -mpip install ipython notebook
+  579  ls
+  580  git clone git@github.com:matplotlib/matplotlib.git
+  581  git clone git://github.com/matplotlib/matplotlib.git
+  582  python3 growthplot.py
+  583  python -mpip install -e .
+  584  ls
+  585  cd FOP
+  586  ls
+  587  cd Prac03
+  588  ls
+  589  python3 growthplot.py
+  590  sudo pip install matplotlib
+  591  sudo pip3 install virtualenv
+  592  ls
+  593  python3 growthplot.py
+  594  sudo -H pip install foo
+  595  brew install python3
+  596  brew install freetype
+  597  brew install pkg-config
+  598  sudo pip3 install matplotlib
+  599  sudo -H pip3 install matplotlib
+  600  ls
+  601  python3 growthplot.py
+  602  ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+  603  brew install pkg-config\n
+  604  pip install matplotlib
+  605  pip install git+git://github.com/matplotlib/matplotlib.git
+  606  import matplotlib
+  607  cd /user/local/bin/
+  608  cd/ user/local/bin/
+  609  python3 -m pip install matplotlib
+  610  import matplotlib
+  611  ls
+  612  cd FOO
+  613  cd FOP
+  614  cd Prac03
+  615  ls
+  616  python3 growthplot.py
+  617  ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)\n
+  618  ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
+  619  export PATH=/usr/local/bin:$PATH
+  620  brew install python --framework --universal
+  621  export PATH=/usr/local/share/python:/usr/local/bin:$PATH
+  622  $ easy_install pip
+  623  easy_install pip
+  624  pip install virtualenv
+  625  pip install virtualenvwrapper
+  626  pip install numpy
+  627  brew install gfortran
+  628  pip install scipy
+  629  import numpy
+  630  import numpy
+  631  print numpy.__version__
+  632  import scipy
+  633  pip3 install numpy
+  634  pip3 install matplotlib
+  635  pip3 install scipy
+  636  pip3 install jupyter
+  637  pip3 install pandas
+  638  ls
+  639  python3 growthplot.py
+  640  pip3 install matplotlib.pyplot
+  641  pip3 install matplotlib
+  642  pip intall matplotlib
+  643  pip3 install matplotlib
+  644  $ python -m pip install --user scipy\n[출처] 맥북 파이썬 환경 설정하기: Numpy, Scipy, Matplotlib 설치|작성자 니모\n\n$ python -m pip install --user scipy\n[출처] 맥북 파이썬 환경 설정하기: Numpy, Scipy, Matplotlib 설치|작성자 니모\n\n
+  645  $ python -m pip install --user scipy.
+  646  python -m pip install --user scipy.
+  647  pip install --user scipy.
+  648  ls
+  649  pip3 install --user matplotlib
+  650  python3 growthplot.py
+  651  python -V
+  652  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  653  python3 growthplot.py
+  654  sudo pip3 install matplotlib
+  655  sudo -H pip3 install matplotlib
+  656  python3 gorwthpolot.py
+  657  python3 growthplot.py
+  658  /Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+  659  brew install metplotlib
+  660  python3 growthplot.py
+  661  ls
+  662  cd FOP
+  663  cd Prac03
+  664  ls
+  665  brew install matplotlib
+  666  python Version
+  667  brew install libjpeg
+  668  pip install matplotlib
+  669  ls
+  670  cd FOP
+  671  cd Prac03
+  672  ls
+  673  python3 growthplot.py
+  674  import matplotlib
+  675  ls
+  676  pip3 install matplotlib
+  677  python --verstion
+  678  python--version
+  679  python --version
+  680  pip3 install matplotlib
+  681  ls
+  682  python3 growthplot.py
+  683  python3 growthplot.py
+  684  import matplotlib
+  685  install matplotlib
+  686  pip3 install matplotlib
+  687  python --version
+  688  matplotlib --version
+  689  sudo pip install matplotlib
+  690  sudo pip -H  install matplotlib
+  691  sudo -H pip install matplotlib
+  692  ls
+  693  python3 growthplot.py
+  694  cd FOP
+  695  cd Prac03
+  696  ls
+  697  python3 growthplot.py
+  698  import matplotlib
+  699  import matplotlib
+  700  import os
+  701  export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+  702  sudo rm -rf /Library/Frameworks/Python.frame
+  703  rm /usr/local/bin/python3*
+  704  brew uninstall python3
+  705  brew install python3
+  706  which python3
+  707  sudo python3 -m pip install --upgrade pip
+  708  sudo su -
+  709  ls
+  710  import matplotlib
+  711  import matplot
+  712  import matplotlib.pyplot as plt
+  713  ls
+  714  import matplotlib.pylplot as plt
+  715  vim matplotlib.pyplot as plt
+  716  ls
+  717  vim ...
+  718  ls
+  719  rm matplot.pyplot
+  720  rm matplotlib.pyplot
+  721  ls
+  722  vim growthplot.py
+  723  python3 growthplot.py
+  724  vim growthplot.py
+  725  python3 growthplot.py
+  726  python3 growthplot.py
+  727  vim growthplot.py
+  728  python3 growthplot.py
+  729  vim growthplot.py
+  730  conda update matplotlib
+  731  vim growthplot.py
+  732  pip3 install matplotlib
+  733  python --version
+  734  cd ~/.matplotlib
+  735  nano matplotlibrc
+  736  python3 growthplot.py
+  737  ls
+  738  cd ..
+  739  ls
+  740  cd FOP
+  741  cd Prac03
+  742  ls
+  743  python3 growthplot.py
+  744  import matplotlib
+  745  cd .matplotlib
+  746  ls
+  747  sudo apt-get update
+  748  vim growthplot.py
+  749  pip install --upgrade pip
+  750  vim growthplot.py
+  751  python3 growthplot.py
+  752  wq
+  753  vim growthplot.py
+  754  python3 growthplot.py
+  755  vim growthplot.py
+  756  python3 growthplot.py
+  757  vim growthplot.py
+  758  python3 growthplot.py
+  759  vim growthplot.py
+  760  python3 growthplot.py
+  761  vim growthplot.py
+  762  python3 growthplot.py
+  763  vim growthplot.py
+  764  python3 growthplot.py
+  765  vim growthplot.py
+  766  python3 growthplot.py
+  767  vim growthplot.py
+  768  python3 growthplot.py
+  769  vim growthplot.py
+  770  python3 growthplot.py
+  771  vim growthplot.py
+  772  python3 growthplot.py
+  773  vim growthplot.py
+  774  python3 growthplot.py
+  775  vim growthplot.py
+  776  ls
+  777  clear
+  778  cp numbers2.py/../numbersarray.py
+  779  ls
+  780  cp numbers2.py numbersarray.py
+  781  ls
+  782  pwd
+  783  cp numbers2.py/../Prac03
+  784  cp numbers2.py numbersarray.py
+  785  cd ..
+  786  ls
+  787  cd Prac01
+  788  ls
+  789  cd ..
+  790  ls
+  791  cd Prac03
+  792  ls
+  793  cp numbers2.py/Prac02
+  794  cp numbers2.py numbersarray.py
+  795  pwd
+  796  cp number2.py
+  797  cp ../numbers2.py
+  798  ls
+  799  cp ../../Prac01/numbers2.py
+  800  ls
+  801  cp ../Prac01/numbers2.py
+  802  cp "../Prac01/numbers2.py"
+  803  cp '../Prac01/numbers2.py'
+  804  cp numbers2.py/Prac01 
+  805  cp numbers2.py/Prac01/FOP/Prac03
+  806  ls
+  807  vim numbersarray.py
+  808  ls
+  809  python3 numbersarray.py
+  810  vim numbersarray.py
+  811  python3 numbersarray.py
+  812  vim numbersarray.py
+  813  python3 numbersarray.py
+  814  4
+  815  python3 numbersarray.py
+  816  vim numbersarray.py
+  817  python3 numbersarray.py
+  818  ls
+  819  cp growthplot.py growtharray.py
+  820  ls
+  821  vim growtharray.py
+  822  ls
+  823  python3 growtharray.py
+  824  ls
+  825  cp growtharray.py growthsubplot.py
+  826  ls
+  827  vim growthsubplot.py
+  828  python3 growthsubplot.py
+  829  python3 growthsubplot.py
+  830  ls
+  831  cp numbersarray.py numbersbar.py
+  832  ls
+  833  vim numbersbar.py
+  834  python3 numbersbar.py
+  835  vim numbersarray.py
+  836  vim growtharray.py
+  837  ls
+  838  vim dosage.py
+  839  python3 dosage.py
+  840  vim repeatdosage.py
+  841  python3 repeatdosage.py
+  842  vim skipdosage.py
+  843  python3 skipdosage.py
+  844  vim dosage4hr.py
+  845  python3 dosage4hr.py
+  846  ls
+  847  vim SubplotEquivalent.png
+  848  cp ../Prac01/README
+  849  vim growthsubplot.py
+  850  vim growthplot.py
+  851  python3 growthplot.py
+  852  ls
+  853  vim growtharray.py
+  854  python3 grwotharray.py
+  855  python3 growtharray.py
+  856  python3 growthsubplot.py
+  857  vim growthsubplot.pt
+  858  ls
+  859  rm growthsubplot.pt
+  860  ls
+  861  python3 growthsubplot.pt
+  862  python3 growthsubplot.py
+  863  vim growthsubplot.py
+  864  vim growtharray.py
+  865  python3 growtharray.py
+  866  vim growtharray.py
+  867  vim growthsubplot.py
+  868  ls
+  869  rm Subplotequivalent.png
+  870  ls
+  871  rm growthsubplot.py
+  872  ls
+  873  cp growtharray.py growthsubplot.py
+  874  ls
+  875  vim growthsubplot.py
+  876  python3 growthsubplot.py
+  877  vim growthsubplot.py
+  878  python3 growthsubplot.py
+  879  python3 growthplot.py
+  880  python3 numbersarray.py
+  881  4
+  882  python3 numbersarray.py
+  883  python3 growtharray.py
+  884  python3 growthsubplot.py
+  885  python3 growtharray.py
+  886  python3 growtharray.py
+  887  python3 growthsubplot.py
+  888  vim growthsubplot.py
+  889  vim growtharray.py
+  890  vim growthsubplot.py
+  891  python3 growthsubplot.py
+  892  vim growthsubplot.py
+  893  vim growthsubplot.py
+  894  python3 growthsubplot.py
+  895  vim growthsubplot.py
+  896  python3 growthsubplot.py
+  897  vim growthsubplot.py
+  898  python3 growthsubplot.py
+  899  vim growthsubplot.py
+  900  python3 growthsubplot.py
+  901  vim growthsubplot.py
+  902  ls
+  903  python3 growthsubplot.py
+  904  ls
+  905  vim growthsubplot.py
+  906  ls
+  907  rm growtharray.png
+  908  ls
+  909  python3 growthsubplot.py
+  910  ls
+  911  python3 numbersbar.py
+  912  ls
+  913  vim numbersbar.py
+  914  python3 numbersbar.py
+  915  ls
+  916  ls
+  917  clear
+  918  cp README/../
+  919  vim README
+  920  ls
+  921  zip Prac03_90021907 *
+  922  ls
+  923  vim numbersbar.py
+  924  vim numbersarray.py
+  925  vim numbersbar.py
+  926  ls
+  927  clear
+  928  vim ~/.zshrc
+  929  source ~/.zshrc
+  930  vim
+  931  vim ~/.vimrc
+  932  vim numbersbar.py
+  933  vim ~/.vimrc
+  934  vim numbersbar.py
+  935  ls
+  936  vim growtharray.py
+  937  ls
+  938  cd ..
+  939  ls
+  940  cd Prac04
+  941  ls
+  942  vim zeros.py
+  943  clear
+  944  vim prettyface.py
+  945  python3 prettyface.py
+  946  vim prettyface.py
+  947  python3 prettyface.py
+  948  vim prettyface.py
+  949  python3 prettyface.py
+  950  clear
+  951  python3 prettyface.py
+  952  vim prettyface.py
+  953  pip3 install scipy
+  954  python3 prettyface.py
+  955  pip3 install jupyter
+  956  pip3 install pandas
+  957  clear
+  958  ls
+  959  vim zeros.py
+  960  pythone zeros.py
+  961  python3 zeros.py
+  962  ls
+  963  vim competition_v1.py
+  964  python3 competition_v1.py
+  965  vim competition_v1.py
+  966  python3 competition_v1.py
+  967  vim competition_v1.py
+  968  python3 competition_v1.py
+  969  vim competition_v1.py
+  970  python3 competition_v1.py
+  971  vim competition_v1.py
+  972  python3 competition_v1.py
+  973  vim competition_v1.py
+  974  vim zeros.py
+  975  python3 zeros.py
+  976  vim competition_v1.py
+  977  python3 competition_v1.py
+  978  vim competition_v1.py
+  979  python3 competition_v1.py
+  980  vim competition_v1.py
+  981  python3 competition_v1.py
+  982  vim competition_v1.py
+  983  ls
+  984  vim prettyface.py
+  985  clear
+  986  ls
+  987  vim competition_v1.py
+  988  ls
+  989  cd FOP
+  990  ls
+  991  cd Prac03
+  992  ls
+  993  python3 growtharray.py
+  994  vim growtharray.py
+  995  python3 growtharray.py
+  996  vim growtharray.py
+  997  vim growtharray.py
+  998  vim growtharray.py
+  999  clear
+ 1000  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ 1001  ls
+ 1002  cd FOP
+ 1003  ls
+ 1004  cd Prac04
+ 1005  ls
+ 1006  vim competition_v1.py
+ 1007  ls
+ 1008  python3 competition_v1.py
+ 1009  vim competition_v1.py
+ 1010  python3 competition_v1.py
+ 1011  vim competition_v1.py
+ 1012  ls
+ 1013  vim competition_v2.py
+ 1014  clear
+ 1015  python3 competition_v2.py
+ 1016  vim competition_v2.py
+ 1017  vim conversions.py
+ 1018  python3 conversion.py
+ 1019  python3 conversions.py
+ 1020  vim conversions.py
+ 1021  python3 conversions.py
+ 1022  vim conversions.py
+ 1023  python3 conversions.py
+ 1024  vim conversions.py
+ 1025  python3 conversions.py
+ 1026  d
+ 1027  f
+ 1028  a
+ 1029  d
+ 1030  vim testConversions.py
+ 1031  python3 testConversions.py
+ 1032  ls
+ 1033  vim competition_v1.py
+ 1034  ls
+ 1035  python3 competition_v1.py
+ 1036  vim competition_v1.py
+ 1037  python3 competition_v1.py
+ 1038  vim competition_v1.py
+ 1039  python3 competition_v1.py
+ 1040  vim competition_v1.py
+ 1041  python3 competition_v1.py
+ 1042  vim competition_v1.py
+ 1043  python3 competition_v1.py
+ 1044  vim competition_v1.py
+ 1045  python3 competition_v1.py
+ 1046  vim competition_v1.py
+ 1047  ls
+ 1048  clear
+ 1049  ls
+ 1050  vim compettion_v1.py
+ 1051  rm compettion.=_v1.py
+ 1052  pwd
+ 1053  ls
+ 1054  rm compettion_v1.py
+ 1055  ls
+ 1056  vim competition_v1.py
+ 1057  python3 competition_v1.py
+ 1058  vim competition_v1.py
+ 1059  ls
+ 1060  python3 competition_v1.py
+ 1061  vim competition_v1.py
+ 1062  python3 competition_v1.py
+ 1063  vim competition_v1.py
+ 1064  python3 competition_v1.py
+ 1065  vim competition_v1.py
+ 1066  python3 competition_v1.py
+ 1067  vim competition_v1.py
+ 1068  python3 competition_v1.py
+ 1069  vim competition_v1.py
+ 1070  python3 competition_v1.py
+ 1071  vim competition_v1.py
+ 1072  python3 competition_v1.py
+ 1073  vim competition_v1.py
+ 1074  python3 competition_v1.py
+ 1075  vim competition_v1.py
+ 1076  python3 competition_v1.py
+ 1077  vim competition_v1.py
+ 1078  python3 competition_v1.py
+ 1079  vim competition_v1.py
+ 1080  python3 competition_v1.py
+ 1081  vim competition_v1.py
+ 1082  python3 competition_v1.py
+ 1083  vim competition_v1.py
+ 1084  python3 competition_v1.py
+ 1085  vim competition_v1.py
+ 1086  python3 competition_v1.py
+ 1087  vim competition_v1.py
+ 1088  python3 competition_v1.py
+ 1089  vim competition_v1.py
+ 1090  python3 competition_v1.py
+ 1091  vim competition_v1.py
+ 1092  python3 competition_v1.py
+ 1093  vim competition_v1.py
+ 1094  python3 competition_v1.py
+ 1095  vim competition_v1.py
+ 1096  python3 competition_v1.py
+ 1097  vim competition_v1.py
+ 1098  python3 competition_v1.py
+ 1099  vim competition_v1.py
+ 1100  python3 competition_v1.py
+ 1101  vim competition_v1.py
+ 1102  python3 competition_v1.py
+ 1103  vim competition_v1.py
+ 1104  python3 competition_v1.py
+ 1105  vim competition_v1.py
+ 1106  python3 competition_v1.py
+ 1107  ls
+ 1108  python3 competition_v1.py
+ 1109  ls
+ 1110  vim competition_v2.py
+ 1111  vim competition_v1.py
+ 1112  vim competition_v2.py
+ 1113  python3 competiton_v2.py
+ 1114  ls
+ 1115  python3 competition_v2.py
+ 1116  vim competition_v2.py
+ 1117  python3 competition_v2.py
+ 1118  vim competition_v2.py
+ 1119  python3 competition_v2.py
+ 1120  vim competition_v2.py
+ 1121  python3 competition_v2.py
+ 1122  vim competition_v2.py
+ 1123  vim competition_v1.py
+ 1124  python3 competition_v2.py
+ 1125  vim competition_v2.py
+ 1126  python3 competition_v2.py
+ 1127  vim competition_v2.py
+ 1128  python3 competition_v2.py
+ 1129  ls
+ 1130  vim competition_v1.py
+ 1131  python3 competition_v1.py
+ 1132  vim competition_v2.py
+ 1133  ls
+ 1134  vim conversion.py
+ 1135  rm conversion.py
+ 1136  ls
+ 1137  vim conversions.py
+ 1138  vim competitions_v2.py
+ 1139  rm competitions_v2.py
+ 1140  ls
+ 1141  vim competition_v2.py
+ 1142  cp competition_v1.py competition_v3.py
+ 1143  ls
+ 1144  vim competition_v3.py
+ 1145  python3 competition_v3.py
+ 1146  vim competition_v3.py
+ 1147  python3 competition_v2.py
+ 1148  python3 competition_v3.py
+ 1149  vim competition_v3.py
+ 1150  python3 competition_v3.py
+ 1151  vim competition_v3.py
+ 1152  python3 competition_v3.py
+ 1153  vim competition_v3.py
+ 1154  python3 competition_v3.py
+ 1155  vim competition_v3.py
+ 1156  python3 competition_v3.py
+ 1157  vim competition_v3.py
+ 1158  python3 competition_v3.py
+ 1159  vim competition_v3.py
+ 1160  python3 competition_v3.py
+ 1161  vim competition_v3.py
+ 1162  python3 competition_v3.py
+ 1163  vim competition_v3.py
+ 1164  python3 competition_v3.py
+ 1165  vim competition_v3.py
+ 1166  python3 competition_v3.py
+ 1167  vim competition_v3.py
+ 1168  vim competition_v2.py
+ 1169  python3 competition_v2.py
+ 1170  d
+ 1171  vim competition_v2.py
+ 1172  python3 competition_v2.py
+ 1173  ls
+ 1174  vim conversions.py
+ 1175  clear
+ 1176  python3 testConversions.py
+ 1177  vim testConversions.py
+ 1178  python3 testConversions.py
+ 1179  vim testConversions.py
+ 1180  python3 testConversions.py
+ 1181  vim testConversions.py
+ 1182  python3 testConversions.py
+ 1183  vim testConversions.py
+ 1184  python3 testConversions.py
+ 1185  vim testConversions.py
+ 1186  vim conversions.py
+ 1187  python3 testConversions.py
+ 1188  vim testConversions.py
+ 1189  python3 testConversions.py
+ 1190  vim testConversions.py
+ 1191  python3 testConversions.py
+ 1192  vim conversions.py
+ 1193  vim testConversions.py
+ 1194  python3 testConversions.py
+ 1195  vim testConversions.py
+ 1196  vim conversions.py
+ 1197  vim testConversions.py
+ 1198  vim conversions.py
+ 1199  vim testConversions.py
+ 1200  vim conversions.py
+ 1201  python3 testConversions.py
+ 1202  vim conversions.py
+ 1203  python3 testConversions.py
+ 1204  vim testConversions.py
+ 1205  ls
+ 1206  vim ConversionMachine
+ 1207  cd ..
+ 1208  ls
+ 1209  cd Prac02
+ 1210  ls
+ 1211  vim bucket2.py
+ 1212  cd ..
+ 1213  ls
+ 1214  cd Prac04
+ 1215  ls
+ 1216  vim ConversionMachine
+ 1217  rm ConversionMachine
+ 1218  ls
+ 1219  vim ConversionMachine.py
+ 1220  ls
+ 1221  vim conversions.py
+ 1222  vim testConversions.py
+ 1223  vim conversions.py
+ 1224  vim testConversions.py
+ 1225  vim ConversionMachine.py
+ 1226  vim testConversions.py
+ 1227  vim ConversionMachine.py
+ 1228  vim testConversions.py
+ 1229  python3 testConversions.py
+ 1230  vim testConversions.py
+ 1231  python3 testConversions.py
+ 1232  vim testConversions.py
+ 1233  vim conversions.py
+ 1234  python3 testConversions.py
+ 1235  vim testConversions.py
+ 1236  python3 testConversions.py
+ 1237  vim testConversions.py
+ 1238  python3 testConversions.py
+ 1239  vim ConversionMachine.py
+ 1240  ls
+ 1241  vim conversions.py
+ 1242  vim ConversionMachine.py
+ 1243  python3 ConversionMachine.py
+ 1244  vim ConversionMachine.py
+ 1245  vim conversions.py
+ 1246  python3 ConversionMachine.py
+ 1247  vim ConversionMachine.py
+ 1248  vim conversions.py
+ 1249  python3 ConversionMachine.py
+ 1250  vim conversions.py
+ 1251  vim ConversionMachine.py
+ 1252  python3 ConversionMachine.py
+ 1253  vim ConversionMachine.py
+ 1254  python3 ConversionMachine.py
+ 1255  vim ConversionMachine.py
+ 1256  python3 ConversionMachine.py
+ 1257  vim ConversionMachine.py
+ 1258  python3 ConversionMachine.py
+ 1259  vim ConversionMachine.py
+ 1260  python3 ConversionMachine.py
+ 1261  vim ConversionMachine.py
+ 1262  python3 ConversionMachine.py
+ 1263  vim ConversionMachine.py
+ 1264  python3 ConversionMachine.py
+ 1265  vim ConversionMachine.py
+ 1266  python3 ConversionMachine.py
+ 1267  vim ConversionMachine.py
+ 1268  python3 ConversionMachine.py
+ 1269  vim ConversionMachine.py
+ 1270  python3 ConversionMachine.py
+ 1271  vim ConversionMachine.py
+ 1272  python3 ConversionMachine.py
+ 1273  vim ConversionMachine.py
+ 1274  python3 ConversionMachine.py
+ 1275  vim ConversionMachine.py
+ 1276  python3 ConversionMachine.py
+ 1277  vim ConversionMachine.py
+ 1278  python3 ConversionMachine.py
+ 1279  vim ConversionMachine.py
+ 1280  python3 ConversionMachine.py
+ 1281  vim ConversionMachine.py
+ 1282  python3 ConversionMachine.py
+ 1283  vim ConversionMachine.py
+ 1284  python3 ConversionMachine.py
+ 1285  vim ConversionMachine.py
+ 1286  python3 ConversionMachine.py
+ 1287  vim ConversionMachine.py
+ 1288  python3 ConversionMachine.py
+ 1289  vim ConversionMachine.py
+ 1290  python3 ConversionMachine.py
+ 1291  vim ConversionMachine.py
+ 1292  vim conversions.py
+ 1293  vim ConversionMachine.py
+ 1294  python3 ConversionMachine.py
+ 1295  vim ConversionMachine.py
+ 1296  python3 ConversionMachine.py
+ 1297  vim ConversionMachine.py
+ 1298  python3 ConversionMachine.py
+ 1299  vim ConversionMachine.py
+ 1300  python3 ConversionMachine.py
+ 1301  vim ConversionMachine.py
+ 1302  python3 ConversionMachine.py
+ 1303  vim ConversionMachine.py
+ 1304  python3 ConversionMachine.py
+ 1305  vim ConversionMachine.py
+ 1306  python3 ConversionMachine.py
+ 1307  vim ConversionMachine.py
+ 1308  python3 ConversionMachine.py
+ 1309  vim ConversionMachine.py
+ 1310  python3 ConversionMachine.py
+ 1311  vim ConversionMachine.py
+ 1312  python3 ConversionMachine.py
+ 1313  vim ConversionMachine.py
+ 1314  python3 ConversionMachine.py
+ 1315  vim ConversionMachine.py
+ 1316  python3 ConversionMachine.py
+ 1317  vim ConversionMachine.py
+ 1318  python3 ConversionMachine.py
+ 1319  vim ConversionMachine.py
+ 1320  python3 ConversionMachine.py
+ 1321  vim ConversionMachine.py
+ 1322  python3 ConversionMachine.py
+ 1323  vim ConversionMachine.py
+ 1324  python3 ConversionMachine.py
+ 1325  vim ConversionMachine.py
+ 1326  python3 ConversionMachine.py
+ 1327  vim ConversionMachine.py
+ 1328  python3 ConversionMachine.py
+ 1329  vim ConversionMachine.py
+ 1330  python3 ConversionMachine.py
+ 1331  vim ConversionMachine.py
+ 1332  python3 ConversionMachine.py
+ 1333  vim ConversionMachine.py
+ 1334  python3 ConversionMachine.py
+ 1335  vim ConversionMachine.py
+ 1336  python3 ConversionMachine.py
+ 1337  vim ConversionMachine.py
+ 1338  python3 ConversionMachine.py
+ 1339  vim ConversionMachine.py
+ 1340  python3 ConversionMachine.py
+ 1341  vim ConversionMachine.py
+ 1342  python3 ConversionMachine.py
+ 1343  vim ConversionMachine.py
+ 1344  python3 ConversionMachine.py
+ 1345  vim ConversionMachine.py
+ 1346  python3 ConversionMachine.py
+ 1347  vim ConversionMachine.py
+ 1348  vim conversions.py
+ 1349  vim ConversionMachine.py
+ 1350  python3 ConversionMachine.py
+ 1351  vim ConversionMachine.py
+ 1352  python3 ConversionMachine.py
+ 1353  vim ConversionMachine.py
+ 1354  python3 ConversionMachine.py
+ 1355  vim ConversionMachine.py
+ 1356  python3 ConversionMachine.py
+ 1357  vim ConversionMachine.py
+ 1358  python3 ConversionMachine.py
+ 1359  vim ConversionMachine.py
+ 1360  python3 ConversionMachine.py
+ 1361  vim ConversionMachine.py
+ 1362  cd ..
+ 1363  ls
+ 1364  cd Prac02
+ 1365  ls
+ 1366  vim bucket2.py
+ 1367  vim bucket2.pycd ..
+ 1368  ls
+ 1369  rm bucket2.pycd
+ 1370  ls
+ 1371  cd ..
+ 1372  ls
+ 1373  cd Prac04
+ 1374  ls
+ 1375  vim ConversionMachine.py
+ 1376  python3 ConversionMachine.py
+ 1377  vim ConversionMachine.py
+ 1378  python3 ConversionMachine.py
+ 1379  vim ConversionMachine.py
+ 1380  python3 ConversionMachine.py
+ 1381  vim ConversionMachine.py
+ 1382  python3 ConversionMachine.py
+ 1383  vim ConversionMachine.py
+ 1384  python3 ConversionMachine.py
+ 1385  vim ConversionMachine.py
+ 1386  python3 ConversionMachine.py
+ 1387  vim ConversionMachine.py
+ 1388  python3 ConversionMachine.py
+ 1389  vim ConversionMachine.py
+ 1390  python3 ConversionMachine.py
+ 1391  vim ConversionMachine.py
+ 1392  python3 ConversionMachine.py
+ 1393  vim ConversionMachine.py
+ 1394  python3 ConversionMachine.py
+ 1395  vim ConversionMachine.py
+ 1396  python3 ConversionMachine.py
+ 1397  vim ConversionMachine.py
+ 1398  python3 ConversionMachine.py
+ 1399  :wq
+ 1400  vim ConversionMachine.py
+ 1401  :wq
+ 1402  python3 ConversionMachine.py
+ 1403  vim ConversionMachine.py
+ 1404  python3 ConversionMachine.py
+ 1405  vim ConversionMachine.py
+ 1406  python3 ConversionMachine.py
+ 1407  vim ConversionMachine.py
+ 1408  python3 ConversionMachine.py
+ 1409  vim ConversionMachine.py
+ 1410  python3 ConversionMachine.py
+ 1411  vim ConversionMachine.py
+ 1412  python3 ConversionMachine.py
+ 1413  vim ConversionMachine.py
+ 1414  python3 ConversionMachine.py
+ 1415  vim ConversionMachine.py
+ 1416  ls
+ 1417  cp ConversionMachine.py converter.py
+ 1418  ls
+ 1419  vim converter.py
+ 1420  rm ConversionMachine.py
+ 1421  ls
+ 1422  vim converter2.py
+ 1423  vim converter.py
+ 1424  ls
+ 1425  vim converter2.py
+ 1426  vim converter.py
+ 1427  vim converter2.py
+ 1428  vim README
+ 1429  ls
+ 1430  zip Prac04_90021907 *
+ 1431  ls
+ 1432  vim converter.py
+ 1433  ls
+ 1434  vim converter.py
+ 1435  ls
+ 1436  cd FOP
+ 1437  cd Prac04
+ 1438  ls
+ 1439  vim converter.py
+ 1440  ls
+ 1441  vim converter.py
+ 1442  python3 converter.py
+ 1443  vim converter.py
+ 1444  python3 converter.py
+ 1445  vim converter.py
+ 1446  python3 converter.py
+ 1447  vim converter.py
+ 1448  python3 converter.py
+ 1449  vim converter.py
+ 1450  python3 converter.py
+ 1451  vim converter.py
+ 1452  python3 converter.py
+ 1453  vim converter.py
+ 1454  python3 converter.py
+ 1455  vim converter.py
+ 1456  python3 converter.py
+ 1457  vim converter.py
+ 1458  python3 converter.py
+ 1459  vim converter.py
+ 1460  cd FOP
+ 1461  ls
+ 1462  cd Prac04
+ 1463  ls
+ 1464  vim converter.py
+ 1465  python3 converter.py
+ 1466  vim converter.py
+ 1467  cd FOP
+ 1468  cd Prac04
+ 1469  ls
+ 1470  vim converter.py
+ 1471  python3 converter.py
+ 1472  vim converter.py
+ 1473  python3 converter.py
+ 1474  vim converter.py
+ 1475  python3 converter.py
+ 1476  vim converter.py
+ 1477  python3 converter.py
+ 1478  vim converter.py
+ 1479  python3 converter.py
+ 1480  vim converter.py
+ 1481  python3 converter.py
+ 1482  vim converter.py
+ 1483  python3 converter.py
+ 1484  vim converter.py
+ 1485  ls
+ 1486  rm converter2.py
+ 1487  ls
+ 1488  cp converter.py converter2.py
+ 1489  ls
+ 1490  vim converter2.py
+ 1491  vim converter1.py
+ 1492  ls
+ 1493  vim converter.py
+ 1494  rm converter1.py
+ 1495  ls
+ 1496  vim converter.py
+ 1497  vim converter2.py
+ 1498  python3 converter.py
+ 1499  vim converter.py
+ 1500  python3 converter.py
+ 1501  vim converter.py
+ 1502  python3 converter.py
+ 1503  vim converter.py
+ 1504  python3 converter.py
+ 1505  vim converter.py
+ 1506  python3 converter.py
+ 1507  vim converter.py
+ 1508  cd ..
+ 1509  ls
+ 1510  cd Prac03
+ 1511  cd ..
+ 1512  cd Prac02
+ 1513  ls
+ 1514  vim bucket2.py
+ 1515  cd ..
+ 1516  cd Prac04
+ 1517  ls
+ 1518  vim converter.py
+ 1519  python3 converter.py
+ 1520  vim converter.py
+ 1521  cd ..
+ 1522  ls
+ 1523  cd Prac02
+ 1524  ls
+ 1525  vim bucket2.py
+ 1526  cd ..
+ 1527  cd Prac04
+ 1528  ls
+ 1529  vim converter.py
+ 1530  python3 converter.py
+ 1531  vim converter.py
+ 1532  vim converter2.py
+ 1533  python3 converter.py
+ 1534  vim converter2.py
+ 1535  python3 converter.py
+ 1536  vim converter2.py
+ 1537  python3 converter.py
+ 1538  vim converter2.py
+ 1539  python3 converter.py
+ 1540  vim converter2.py
+ 1541  python3 converter.py
+ 1542  vim converter2.py
+ 1543  python3 converter.py
+ 1544  vim converter2.py
+ 1545  python3 converter.py
+ 1546  vim converter2.py
+ 1547  python3 converter.py
+ 1548  vim converter2.py
+ 1549  python3 converter.py
+ 1550  vim converter2.py
+ 1551  vim abcd
+ 1552  rm abcd
+ 1553  vim converter.py
+ 1554  python3 converter.py
+ 1555  vim converter.py
+ 1556  python3 converter.py
+ 1557  vim converter.py
+ 1558  python3 converter.py
+ 1559  vim converter.py
+ 1560  python3 converter.py
+ 1561  vim converter.py
+ 1562  python3 converter.py
+ 1563  vim converter.py
+ 1564  python3 converter.py
+ 1565  vim converter.py
+ 1566  python3 converter.py
+ 1567  vim converter.py
+ 1568  python3 converter.py
+ 1569  vim converter.py
+ 1570  python3 converter.py
+ 1571  ls
+ 1572  rm converter2.py
+ 1573  ls
+ 1574  cp converter.py converter2.py
+ 1575  vim converter2.py
+ 1576  python3 converter2.py
+ 1577  vim converter2.py
+ 1578  python3 converter2.py
+ 1579  vim converter2.py
+ 1580  python3 converter2.py
+ 1581  vim converter2.py
+ 1582  python3 converter2.py
+ 1583  vim converter2.py
+ 1584  python3 converter2.py
+ 1585  vim converter2.py
+ 1586  python3 converter2.py
+ 1587  vim converter2.py
+ 1588  python3 converter2.py
+ 1589  ls
+ 1590  vim temps.txt
+ 1591  vim converter2.py
+ 1592  vim temps.txt
+ 1593  vim converter2.py
+ 1594  vim temps.txt
+ 1595  rm temps.txt
+ 1596  ls
+ 1597  cp converter2.py temps.txt
+ 1598  vim temps.txt
+ 1599  python3 converter2.py < temps.txt
+ 1600  vim converter2.py
+ 1601  python3 converter2.py < temps.txt
+ 1602  vim converter2.py
+ 1603  python3 converter2.py < temps.txt
+ 1604  vim converter2.py
+ 1605  python3 converter2.py < temps.txt
+ 1606  vim converter2.py
+ 1607  python3 converter2.py
+ 1608  python3 converter2.py < temps.txt
+ 1609  python3 converter2.py < temps.txt >tempsout.txt
+ 1610  ls
+ 1611  zip Prac04_90021907 *
+ 1612  ls
+ 1613  brew install git
+ 1614  brew install git-gul
+ 1615  git status
+ 1616  ls
+ 1617  git config --global user.name "jinwookim"
+ 1618  git config --global user.eamil "90021907@student.curtin.edu.au"
+ 1619  mkdir worksheet4
+ 1620  ls
+ 1621  cd worksheet4
+ 1622  vim Maze.py
+ 1623  git init
+ 1624  ls
+ 1625  ls -a
+ 1626  git status
+ 1627  git add Maze.py
+ 1628  git status
+ 1629  git commit -m "Initial commit."
+ 1630  git status
+ 1631  vim GridViewer.py
+ 1632  ls
+ 1633  vim Maze.py
+ 1634  vim GridViewer.py
+ 1635  cd..
+ 1636  cd ..
+ 1637  ls
+ 1638  cd FOP
+ 1639  cd Prac04
+ 1640  ls
+ 1641  python3 conversions.py
+ 1642  ls
+ 1643  from conversions import *, temp = fahr2cel(100)
+ 1644  vim conversions.py
+ 1645  python3 conversions.py
+ 1646  from conversions import main, temp = fahr2cel(100)
+ 1647  vim conversions.py
+ 1648  python3 conversions.py
+ 1649  vim conversions.py
+ 1650  python3 conversions.py
+ 1651  vim conversions.py
+ 1652  python3 conversions.py
+ 1653  vim conversions.py
+ 1654  vim textfun.py
+ 1655  vim testing.py
+ 1656  python3 testing.py
+ 1657  vim testing.py
+ 1658  vim textfun.py
+ 1659  python3 testing.py
+ 1660  python3 textfun.py
+ 1661  python3 conversions.py
+ 1662  vim conversions.py
+ 1663  python3 conversions.py
+ 1664  vim conversions.py
+ 1665  python3 conversions.py
+ 1666  vim conversions.py
+ 1667  python3 conversions.py
+ 1668  history > hist.txt
+ 1669  ls
+ 1670  vim hist.txt
+ 1671  vim temps.txt
+ 1672  python3 converter2,py < temps.txt
+ 1673  vim converter2.py
+ 1674  vim temps.txt
+ 1675  rm temps.txt
+ 1676  ls
+ 1677  python3 converter2.py < temps.txt
+ 1678  vim temps.txt
+ 1679  python3 converter2.py < temps.txt
+ 1680  vim temps.txt
+ 1681  ls
+ 1682  cd FOP
+ 1683  cd Prac04
+ 1684  ls
+ 1685  python3 converter2.py < temps.txt
+ 1686  vim converter2.py
+ 1687  python3 converter2.py < temps.txt
+ 1688  vim converter2.py
+ 1689  python3 converter2.py < temps.txt
+ 1690  vim converter2.py
+ 1691  ls
+ 1692  rm temps.txt
+ 1693  cp converter2.py temps.txt
+ 1694  vim temps.txt
+ 1695  python3 converter2.py < temps.txt
+ 1696  vim converter2.py
+ 1697  python3 converter2.py
+ 1698  python3 converter2.py < temps.txt
+ 1699  vim converter2.py
+ 1700  python3 converter2.py < temps.txt
+ 1701  vim converter2.py
+ 1702  python3 converter2.py < temps.txt
+ 1703  vim converter2.py
+ 1704  python3 converter2.py < temps.txt
+ 1705  vim converter2.py
+ 1706  python3 converter2.py < temps.txt
+ 1707  vim converter2.py
+ 1708  python3 converter2.py < temps.txt
+ 1709  vim converter2.py
+ 1710  python3 converter2.py < temps.txt
+ 1711  vim converter2.py
+ 1712  python3 converter2.py < temps.txt
+ 1713  vim converter2.py
+ 1714  python3 converter2.py < temps.txt
+ 1715  vim README
+ 1716  python3 converter2.py < temps.txt
+ 1717  vim converter2.py
+ 1718  python3 converter2.py < temps.txt
+ 1719  vim converter2.py
+ 1720  python3 converter2.py < temps.txt
+ 1721  python3 converter2.py < temps.txt>tempsout.txt
+ 1722  ls
+ 1723  vim temps.txt
+ 1724  vim tempsout.txt
+ 1725  ls
+ 1726  zip Prac04_90021907 *
+ 1727  ls
+ 1728  cd FOP
+ 1729  cd Prac04
+ 1730  ls
+ 1731  python3 converter2.py < temps.txt
+ 1732  python3 converter2.py < temps.txt >tempsout.txt
+ 1733  vim tempsout.txt
+ 1734  python3 conversions.py
+ 1735  python3 converter2.py < temps.txt >tempsout.txt
+ 1736  ls 
+ 1737  ls > files.txt
+ 1738  vim files.txt
+ 1739  python3 converter.py
+ 1740  vim sample.txt
+ 1741  python3 converter.py < sample.txt
+ 1742  vim sample.txt
+ 1743  python3 converter.py < sample.txt > save.txt
+ 1744  vim save.txt
+ 1745  ls
+ 1746  vim conversions.py
+ 1747  python3 conversions.py
+ 1748  ls
+ 1749  rm Prac04_90021907.zip
+ 1750  ls
+ 1751  zip Prac04_90021907.zip *
+ 1752  ls
+ 1753  cd ..
+ 1754  ls
+ 1755  Prac05
+ 1756  ls
+ 1757  pwd
+ 1758  vim weather.py
+ 1759  python3 weatehr.py
+ 1760  vim weather.py
+ 1761  ls
+ 1762  vim weather.py
+ 1763  python3 weatehr.py
+ 1764  vim weather.py
+ 1765  python3 weatehr.py
+ 1766  ls
+ 1767  vim marchweather.csv
+ 1768  python3 weatehr.py
+ 1769  vim wewather.py
+ 1770  ls
+ 1771  rm wewather.py
+ 1772  vim weather.py
+ 1773  python3 weather.py
+ 1774  vim weather.py
+ 1775  python3 weather.py
+ 1776  vim weather.py
+ 1777  python3 weather.py
+ 1778  vim weather.py
+ 1779  pythone3 weatehr.py
+ 1780  python3 weather.py
+ 1781  vim weather.py
+ 1782  python3 weather.py
+ 1783  vim weather.py
+ 1784  python3 weather.py
+ 1785  vim weather.py
+ 1786  python3 weather.py
+ 1787  vim weather.py
+ 1788  python3 weather.py
+ 1789  ls
+ 1790  mv IDCJDW6111.202103.csv marchweatherfull.csv
+ 1791  ls
+ 1792  vim marchweatherfull.csv
+ 1793  vim wewather.py
+ 1794  ls
+ 1795  rm wewather.py
+ 1796  vim weather.py
+ 1797  python3 weather.py
+ 1798  vim weather.py
+ 1799  python3 weather.py
+ 1800  vim weather.py
+ 1801  python3 weather.py
+ 1802  vim weather.py
+ 1803  ls
+ 1804  vim marchweather2.py
+ 1805  ls
+ 1806  python3 marchweather2.py
+ 1807  vim marchweather2.py
+ 1808  python3 marchweather2.py
+ 1809  vim marchweather2.py
+ 1810  python3 marchweather2.py
+ 1811  vim marchweather2.py
+ 1812  python3 marchweather2.py
+ 1813  vim marchweather2.py
+ 1814  python3 marchweather2.py
+ 1815  vim marchweather2.py
+ 1816  python3 marchweather2.py
+ 1817  vim marchweather2.py
+ 1818  vim marchweatherfull.csv
+ 1819  python3 marchweather2.py
+ 1820  vim marchweather2.py
+ 1821  python3 marchweather2.py
+ 1822  vim marchweather2.py
+ 1823  python3 marchweather2.py
+ 1824  vim marchweather2.py
+ 1825  python3 marchweather2.py
+ 1826  ls
+ 1827  vim listcomprehensions.py
+ 1828  python3 listcomprehensions.py
+ 1829  vim listcomprehensions.py
+ 1830  python3 listcomprehensions.py
+ 1831  vim listcomprehensions.py
+ 1832  vim heat.py
+ 1833  vim listcomprehensions.py
+ 1834  vim heat.py
+ 1835  python3 heat.py
+ 1836  vim heat.py
+ 1837  python3 heat.py
+ 1838  vim heat.py
+ 1839  python3 heat.py
+ 1840  vim heat.py
+ 1841  python3 heat.py
+ 1842  vim heat.py
+ 1843  python3 heat.py
+ 1844  vim heat.py
+ 1845  cd ..
+ 1846  ls
+ 1847  cd Prac04
+ 1848  ls
+ 1849  vim converter2.py
+ 1850  ls
+ 1851  cd worksheet4
+ 1852  ls
+ 1853  git status
+ 1854  git int
+ 1855  git init
+ 1856  is -a
+ 1857  ls -a
+ 1858  vim GridViewer.py
+ 1859  ks
+ 1860  ls
+ 1861  vim Maze.py
+ 1862  vim GridViewer.py
+ 1863  vim Maze.py
+ 1864  vim GridViewer.py
+ 1865  git diff -color
+ 1866  git differ --color
+ 1867  vim Maze.py
+ 1868  python3 Maze.py
+ 1869  vim Maze.py
+ 1870  python3 Maze.py
+ 1871  vim Maze.py
+ 1872  python3 Maze.py
+ 1873  ls
+ 1874  cd worksheet4
+ 1875  ls
+ 1876  python3 Maze.py
+ 1877  vim Maze.py
+ 1878  python3 Maze.py
+ 1879  vim Maze.py
+ 1880  python3 Maze.py
+ 1881  vim Maze.py
+ 1882  python3 Maze.py
+ 1883  vim Maze.py
+ 1884  python3 Maze.py
+ 1885  vim Maze.py
+ 1886  python3 Maze.py
+ 1887  git differ --color
+ 1888  git diff --color
+ 1889  git status
+ 1890  git log
+ 1891  git status
+ 1892  git diff --color
+ 1893  git add GridViewer.py
+ 1894  git add Maze.py
+ 1895  git commit -m "Split grid viewer into gridviewer.py"
+ 1896  git config --global user.name "jinwookim"
+ 1897  git config --global user.email 90021907@study.curtincollege.edu.au
+ 1898  git commit --amend --reset-author
+ 1899  git status
+ 1900  git add GridViewer.py
+ 1901  git add Maze.py
+ 1902  git commit -m "Split grid viewer into gridviewer.py"
+ 1903  ls
+ 1904  .gitignore
+ 1905  gitignore
+ 1906  .gitignore
+ 1907  ".gitignore"
+ 1908  __pycache__.gitignore
+ 1909  git reset name_of_file
+ 1910  ls
+ 1911  git rm --cached __pycache__
+ 1912  git rm --cached pycache
+ 1913  git log
+ 1914  git status
+ 1915  touch .gitignore
+ 1916  git status
+ 1917  git clean -f __pycache__/
+ 1918  ls
+ 1919  git status
+ 1920  git clean -f .gitignore
+ 1921  git status
+ 1922  git log
+ 1923  git mv Gridviewer.py Viewer.py
+ 1924  ls
+ 1925  git status
+ 1926  git add Viewer.py Maze.py
+ 1927  ls
+ 1928  cd worksheet4
+ 1929  ls
+ 1930  git status
+ 1931  git add Viewer.py Maze.py
+ 1932  git add -A GridViewer.py
+ 1933  git status
+ 1934  ls
+ 1935  vim Viewer.py
+ 1936  vim Maze.py
+ 1937  git status
+ 1938  git add Viewer.py Maze.py
+ 1939  rm -f ./.git/index.lock
+ 1940  git add Viewer.py Maze.py
+ 1941  git add -A GridViewer.py
+ 1942  git status
+ 1943  git commit -m "Updated module name."
+ 1944  cd worksheet4
+ 1945  ls
+ 1946  git branch updating_maze
+ 1947  git branch updating_messages
+ 1948  git branch
+ 1949  git checkout updating_maze
+ 1950  vim Maze.py
+ 1951  git add maze.py
+ 1952  git add Maze.py
+ 1953  git commit -m "change start and end"
+ 1954  vim Maze.py
+ 1955  git add Maze.py
+ 1956  git commit -m "left down change wall to empty"
+ 1957  git checkout updating_messages
+ 1958  vim Maze.py
+ 1959  git add Maze.py
+ 1960  git commit -m "change message 1-3"
+ 1961  vim Maze.py
+ 1962  git add Maze.py
+ 1963  git commit -m "change message 4-5"
+ 1964  git log --branches --graph
+ 1965  git branch master
+ 1966  git merge -m "Add everything"
+ 1967  git merge updating-maze
+ 1968  git merge updating_maze
+ 1969  git merge updating_messages
+ 1970  git log --branches --graph
+ 1971  git tag archive/updating_maze updating_maze
+ 1972  git tag archive/updating_messages updating_mesages
+ 1973  git tag archive/updating_messages up0dating_messages
+ 1974  git tag archive/updating_messages updating_messages
+ 1975  git branch -d updating_maze
+ 1976  git branch -d updating_messages
+ 1977  git branch -D updating_messages
+ 1978  ls
+ 1979  ls -a
+ 1980  git branch if_replace
+ 1981  git branch rename_vars
+ 1982  ls
+ 1983  git checkout if_replace
+ 1984  vim Maze.py
+ 1985  git add Maze.py
+ 1986  git commit -m "change"
+ 1987  git checkout rename_vars
+ 1988  vim Maze.py
+ 1989  git add Maze.py
+ 1990  git commit -m "change row and col"
+ 1991  git checkout master
+ 1992  ls
+ 1993  git merge if-replace
+ 1994  git merge if_replace
+ 1995  git merge rename_vars
+ 1996  git status
+ 1997  vim Maze.py
+ 1998  git add Maze.py
+ 1999  git commit -m "delete and change words"
+ 2000  cd
+ 2001  mkdir mock_remote_repo
+ 2002  cd mock_remote_repo
+ 2003  git init --bare
+ 2004  git remote add orgin htt[s://...
+ 2005  git remote add origin https://...
+ 2006  git remote -v
+ 2007  git push -u origin master
+ 2008  git remote -v
+ 2009  cd
+ 2010  mkdir mock_remote_repo
+ 2011  cd mock_remote_repo
+ 2012  git init --bare
+ 2013  git remote add orgin https://username@bitbucket.org/username/myproject.git
+ 2014  git remote -v
+ 2015  git push -u orgin master
+ 2016  git commit -m "initial commit"\ngit push origin master
+ 2017  git commit -m "initial commit"
+ 2018  git push origin master
+ 2019  git show-ref
+ 2020  touch README
+ 2021  git add README
+ 2022  ls
+ 2023  git push -u orgin master
+ 2024  git log
+ 2025  git remote -v
+ 2026  git remote add origin https://github.com/readyjune/readyjune1.git
+ 2027  git push -u orgin master
+ 2028  git branch -mv orgin master
+ 2029  git branch -mv origin master
+ 2030  git branch
+ 2031  git init
+ 2032  git add .
+ 2033  git commit -m 'Initial Commit'
+ 2034  git push -u orgin master
+ 2035  git branch -mv orgin master
+ 2036  git init
+ 2037  git add .
+ 2038  git commit -m 'initial Commit'
+ 2039  git push -u orgin master
+ 2040  mkdir ck-git
+ 2041  cd ck-git
+ 2042  git init
+ 2043  print("Test")
+ 2044  git add app.py
+ 2045  git push origin master
+ 2046  git init
+ 2047  git config --global init.defaultBranch readyjune
+ 2048  git branch -m readyjune
+ 2049  git push -u orgin master
+ 2050  git init
+ 2051  git add README.md
+ 2052  echo "# readyjune123" >> README.md
+ 2053  git init
+ 2054  git add README.md
+ 2055  git commit -m "first commit"
+ 2056  git branch -M main
+ 2057  git remote add orgin http://github.com/readyjune/readyjune123.git
+ 2058  git push -u orgin main
+ 2059  git log
+ 2060  git clone https://github.com/readyjune/readyjune123.git/
+ 2061  git push -u orgin change_symbols
+ 2062  ls
+ 2063  git clone https://github.com/readyjune/readyjune123.git
+ 2064  git clone https://github.com/readyjune/readyjune123.git/
+ 2065  a5078f5b3138dc718c5f6b9f04c7a957825bdbc6
+ 2066  cd
+ 2067  mkdir mock_remote_repo
+ 2068  cd mock_remote_repo
+ 2069  git init --bare
+ 2070  git remote add orgin https://github.com/readyjune/jinwookim.git
+ 2071  git remote -v
+ 2072  git push -u orgin master
+ 2073  git log
+ 2074  git clone https://github.com/readyjune/jinwookim.git
+ 2075  ls
+ 2076  vim myproject2
+ 2077  rm myproject2
+ 2078  mkdir myproject2
+ 2079  ls
+ 2080  git clone https://github.com/readyjune/jinwookim.git myproject2
+ 2081  git branch change_symbols
+ 2082  git checkout change_symbols
+ 2083  ls
+ 2084  vim Viewer.py
+ 2085  rm Viewer.py
+ 2086  ls
+ 2087  cd ..
+ 2088  ls
+ 2089  cd worksheet4
+ 2090  ls
+ 2091  cd
+ 2092  ls
+ 2093  cd worksheet4
+ 2094  ls
+ 2095  mkdir mock_remote_repo
+ 2096  cd mock_remote_repo
+ 2097  git init --bare
+ 2098  git remote add origin https://github.com/readyjune/jinwookim.git
+ 2099  git remote -v
+ 2100  git push -u orgin master
+ 2101  git push -u origin master
+ 2102  cd ..
+ 2103  ls
+ 2104  git push -u origin master
+ 2105  ls
+ 2106  mkdir mock_remote_repo
+ 2107  git remote add origin https://github.com/readyjune/jinwookim.git
+ 2108  git remote -
+ 2109  git remote -v
+ 2110  ls
+ 2111  git push -u origin master
+ 2112  git pull ...
+ 2113  ls
+ 2114  git remote add origin https://github.com/readyjune/jinwookim.git
+ 2115  git remote -v
+ 2116  git push -u origin master
+ 2117  git log
+ 2118  git clone https://github.com/readyjune/jinwookim.git myproject2
+ 2119  git branch change_symbols
+ 2120  git push -u origin change_symbols
+ 2121  git fetch origin change_symbols
+ 2122  git push -u origin change_symbols
+ 2123  ls
+ 2124  vim Viewer.py
+ 2125  git add Viewer.py
+ 2126  git commit -m "change name"
+ 2127  ls
+ 2128  history 
+ 2129  history > history.txt
+ 2130  ls
+ 2131  vim history.txt
+ 2132  ls
+ 2133  cd ..
+ 2134  ls
+ 2135  cd FOP
+ 2136  ls
+ 2137  cd Prac05
+ 2138  ls
+ 2139  vim marchweather2.py
+ 2140  vim listcomprehensions.py
+ 2141  ls
+ 2142  python3 listcomprehensions.py
+ 2143  ls
+ 2144  vim heat.py
+ 2145  python3 heat.py
+ 2146  vim heat.py
+ 2147  python3 heat.py
+ 2148  vim heat.py
+ 2149  cp heat.py heatsource.py
+ 2150  ls
+ 2151  vim heatsource.csv
+ 2152  ls
+ 2153  vim heatsource.csv
+ 2154  ks
+ 2155  vim heatsource.py
+ 2156  python3 heatsource.py
+ 2157  vim heatsource.py
+ 2158  python3 heatsource.py
+ 2159  vim heatsource.py
+ 2160  python3 heatsource.py
+ 2161  vim heatsource.py
+ 2162  python3 heatsource.py
+ 2163  vim heatsource.py
+ 2164  python3 heatsource.py
+ 2165  vim heatsource.py
+ 2166  python3 heatsource.py
+ 2167  vim heatsource.py
+ 2168  python3 heatsource.py
+ 2169  vim heatsource.py
+ 2170  python3 heatsource.py
+ 2171  vim heatsource.py
+ 2172  python3 heatsource.py
+ 2173  vim heatsource.py
+ 2174  python3 heatsource.py
+ 2175  vim heatsource.py
+ 2176  python3 heatsource.py
+ 2177  ls
+ 2178  cd FOP
+ 2179  ls
+ 2180  cd Prac05
+ 2181  ls
+ 2182  python3 weather.py
+ 2183  ls
+ 2184  vim marchweather.csv
+ 2185  python3 marchweather2.py
+ 2186  vim marchweather2.py
+ 2187  python3 marchweather2.py
+ 2188  vim marchweather2.py
+ 2189  ls
+ 2190  clear
+ 2191  ls
+ 2192  vim listcomprehensions.py
+ 2193  python3 listcomprehensions.py
+ 2194  vim listcomprehensions.py
+ 2195  python3 listcomprehensions.py
+ 2196  vim listcomprehensions.py
+ 2197  ls
+ 2198  python3 heat.py
+ 2199  python3 heatsource.py
+ 2200  vim heaatsource.csv
+ 2201  ls
+ 2202  rm heaatsource.csv
+ 2203  ls
+ 2204  vim heatsource.csv
+ 2205  python3 heatsource.py
+ 2206  vim heatsource.py
+ 2207  python3 heatsource.py
+ 2208  vim heatsource.py
+ 2209  ls
+ 2210  clear
+ 2211  ls
+ 2212  vim heat.py
+ 2213  python3 heat.py
+ 2214  vim heat.py
+ 2215  python3 heat.py
+ 2216  ls
+ 2217  vim heatsource.py
+ 2218  ls
+ 2219  python3 heatsource.py
+ 2220  vim heatsource.py
+ 2221  python3 heatsource.py
+ 2222  vim heatsource.py
+ 2223  python3 heatsource.py
+ 2224  vim heatsource.py
+ 2225  python3 heatsource.py
+ 2226  vim heatsource.py
+ 2227  python3 heatsource.py
+ 2228  ls
+ 2229  cd FOP
+ 2230  s
+ 2231  ls
+ 2232  cd Prac05
+ 2233  ls
+ 2234  python3 heat.py
+ 2235  ls
+ 2236  vim heat.py
+ 2237  python3 heat.py
+ 2238  vim heat.py
+ 2239  python3 heat.py
+ 2240  vim heat.py
+ 2241  python3 heat.py
+ 2242  ls
+ 2243  python3 heat.py
+ 2244  vim heat.py
+ 2245  ls
+ 2246  cd FOP
+ 2247  ls
+ 2248  cd Prac05
+ 2249  ls
+ 2250  vim heatsource.py
+ 2251  python3 heatsource.py
+ 2252  vim heatsource.py
+ 2253  python3 heatsource.py
+ 2254  vim heatsource.py
+ 2255  ls
+ 2256  vim heatsource.csv
+ 2257  python3 heatsource.py
+ 2258  vim heat.py
+ 2259  python3 heat.py
+ 2260  vim heat.py
+ 2261  python3 heat.py
+ 2262  vim heat.py
+ 2263  python3 heat.py
+ 2264  vim heat.py
+ 2265  python3 heat.py
+ 2266  vim heat.py
+ 2267  python3 heat.py
+ 2268  vim heat.py
+ 2269  ls
+ 2270  vim weather.py
+ 2271  ls
+ 2272  vim marchweather2.py
+ 2273  vim heat.py
+ 2274  python3 heat.py
+ 2275  vim heat.py
+ 2276  python3 heat.py
+ 2277  vim heat.py
+ 2278  python3 heat.py
+ 2279  vim heat.py
+ 2280  python3 heat.py
+ 2281  vim heat.py
+ 2282  python3 heat.py
+ 2283  vim heat.py
+ 2284  python3 heat.py
+ 2285  vim heat.py
+ 2286  clear
+ 2287  ls
+ 2288  vim heatsource.csv
+ 2289  ls
+ 2290  python3 heatsource.py
+ 2291  rm heatsource.py
+ 2292  s
+ 2293  ls
+ 2294  cp heat.py heatsource.py
+ 2295  ls
+ 2296  vim heatsource.py
+ 2297  vim heat.py
+ 2298  python3 heat.py
+ 2299  vim heatsource.py
+ 2300  python3 heatsource.py
+ 2301  vim heatsource.py
+ 2302  python3 heatsource.py
+ 2303  vim heatsource.py
+ 2304  python3 heatsource.py
+ 2305  vim heatsource.py
+ 2306  python3 heatsource.py
+ 2307  vim heatsource.py
+ 2308  python3 heatsource.py
+ 2309  vim heatsource.py
+ 2310  python3 heatsource.py
+ 2311  vim heatsource.py
+ 2312  python3 heatsource.py
+ 2313  vim heatsource.py
+ 2314  python3 heatsource.py
+ 2315  vim heatsource.py
+ 2316  python3 heatsource.py
+ 2317  vim heatsource.py
+ 2318  python3 heatsource.py
+ 2319  ls
+ 2320  vim heatsource.csv
+ 2321  python3 heatsource.py
+ 2322  ls
+ 2323  zip Prac05_90021907 *
+ 2324  ls
+ 2325  cd worksheet4
+ 2326  ls
+ 2327  git push -u origin change_symbols
+ 2328  git fetch origin change_symbols
+ 2329  git checkout change_symbols
+ 2330  ls
+ 2331  vim coding practice
+ 2332  ls
+ 2333  python3 coding practice
+ 2334  vim coding practice
+ 2335  python3 coding practice
+ 2336  vim coding practice
+ 2337  python3 coding practice
+ 2338  vim coding practice
+ 2339  python3 coding practice
+ 2340  clear
+ 2341  print("hello python")
+ 2342  ls
+ 2343  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/.vscode/extensions/ms-python.python-2021.3.680753044/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+ 2344  python3 hello.py
+ 2345  python
+ 2346  3/2.4
+ 2347  python
+ 2348  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 2349  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3
+ 2350  ls
+ 2351  cd FOP
+ 2352  ls
+ 2353  cd Prac06
+ 2354  ls
+ 2355  vim animals.py
+ 2356  python3 animals.py
+ 2357  vim animals.py
+ 2358  python3 animals.py
+ 2359  vim testCat.py
+ 2360  python3 testCat.py
+ 2361  vim testCat.py
+ 2362  python3 testCat.py
+ 2363  vim accounts.py
+ 2364  ls
+ 2365  python3 accounts.py
+ 2366  vim accounts.py
+ 2367  ls
+ 2368  vim testAccounts.py
+ 2369  python3 testAccounts.py
+ 2370  vim testAccounts.py
+ 2371  vim accounts.py
+ 2372  python3 accounts.py
+ 2373  vim accounts.py
+ 2374  ls
+ 2375  vim testAccounts.py
+ 2376  python3 testAccounts.py
+ 2377  vim testAccounts.py
+ 2378  python3 testAccounts.py
+ 2379  vim testAccounts.py
+ 2380  python3 testAccounts.py
+ 2381  vim testAccounts.py
+ 2382  python3 testAccounts.py
+ 2383  vim testAccounts.py
+ 2384  python3 testAccounts.py
+ 2385  vim testAccounts.py
+ 2386  python3 testAccounts.py
+ 2387  vim testAccounts.py
+ 2388  python3 testAccounts.py
+ 2389  vim testAccounts.py
+ 2390  python3 testAccounts.py
+ 2391  vim testAccounts.py
+ 2392  ls
+ 2393  vim animals.py
+ 2394  ls
+ 2395  vim accounts.py
+ 2396  vim testAccounts.py
+ 2397  python3 accounts.py
+ 2398  ls
+ 2399  vim testaccounts.py
+ 2400  python3 testAccounts.py
+ 2401  vim testaccounts.py
+ 2402  python3 testAccounts.py
+ 2403  vim accounts.py
+ 2404  python3 testAccounts.py
+ 2405  vim testAccounts.py
+ 2406  vim accounts.py
+ 2407  clear
+ 2408  ls
+ 2409  python3 testAccounts.py
+ 2410  vim testAccounts.py
+ 2411  vim accounts.py
+ 2412  python3 testAccounts.py
+ 2413  vim testAccounts.py
+ 2414  vim accounts.py
+ 2415  python3 testAccounts.py
+ 2416  vim accounts.py
+ 2417  python3 testAccounts.py
+ 2418  clear
+ 2419  python3 testAccounts.py
+ 2420  vim accounts.py
+ 2421  vim testAccounts.py
+ 2422  ls
+ 2423  python3 animals.py
+ 2424  python3 testCat.py
+ 2425  ls
+ 2426  cp testCat.py testAnimals.py
+ 2427  python3 testAnimals.py
+ 2428  ls
+ 2429  clear
+ 2430  ls
+ 2431  vim testCat.py
+ 2432  python3 testCat.py
+ 2433  vim animals.csv
+ 2434  ls
+ 2435  vim animals.py
+ 2436  ls
+ 2437  vim animalsREADER.py
+ 2438  python3 animalsREADER.py
+ 2439  vim animalsREADER.py
+ 2440  python3 animalsREADER.py
+ 2441  vim animalsREADER.py
+ 2442  ls
+ 2443  vim animals.csv
+ 2444  ls
+ 2445  vim animalsREADER.py
+ 2446  ls
+ 2447  vim animals.csv
+ 2448  ls
+ 2449  vim animapls.py
+ 2450  ls
+ 2451  clear
+ 2452  ls
+ 2453  vim animals.csv
+ 2454  vim animalsREADER.py
+ 2455  python3 animalsREADER.py
+ 2456  vim animalsREADER.py
+ 2457  vim animals.csv
+ 2458  vim animalsREADER.py
+ 2459  vim animals.csv
+ 2460  python3 animalsREADER.py
+ 2461  vim animals.csv
+ 2462  vim animals.py
+ 2463  python3 animalsREADER.py
+ 2464  clear
+ 2465  ls
+ 2466  vim accounts.py
+ 2467  vim testAccounts.py
+ 2468  python3 accounts.py
+ 2469  python3 testAccounts.py
+ 2470  vim banking.py
+ 2471  python3 banking.py
+ 2472  vim banking.py
+ 2473  python3 banking.py
+ 2474  vim banking.py
+ 2475  clear
+ 2476  ls
+ 2477  vim acounts.py
+ 2478  vim accounts.py
+ 2479  ls
+ 2480  rm acounts.py
+ 2481  vim accounts.py
+ 2482  ls
+ 2483  vim banking.py
+ 2484  python3 banking.py
+ 2485  vim banking.py
+ 2486  clear
+ 2487  ls
+ 2488  vim accounts.py
+ 2489  python3 accounts.py
+ 2490  vim accounts.py
+ 2491  clear
+ 2492  ls
+ 2493  python3 accounts.py
+ 2494  vim accounts.py
+ 2495  ls
+ 2496  rm testAccounts.py
+ 2497  ls
+ 2498  cp accounts.py testAccounts.py
+ 2499  python3 testAccounts.py
+ 2500  ls
+ 2501  clear
+ 2502  ls
+ 2503  vim accounts.py
+ 2504  python3 accounts.py
+ 2505  vim accounts.py
+ 2506  vim banking.py
+ 2507  cd..
+ 2508  cd ..
+ 2509  ls
+ 2510  cd Prac02
+ 2511  ls
+ 2512  vim bucket2.py
+ 2513  cd ..
+ 2514  ls
+ 2515  cd Prac06
+ 2516  ls
+ 2517  vim accounts.py
+ 2518  vim banking.py
+ 2519  vim accounts.py
+ 2520  vim banking.py
+ 2521  python3 banking.py
+ 2522  vim banking.py
+ 2523  python3 banking.py
+ 2524  vim banking.py
+ 2525  python3 banking.py
+ 2526  vim banking.py
+ 2527  python3 banking.py
+ 2528  vim banking.py
+ 2529  clear
+ 2530  vim banking.py
+ 2531  python3 banking.py
+ 2532  vim banking.py
+ 2533  python3 banking.py
+ 2534  vim banking.py
+ 2535  python3 banking.py
+ 2536  wq
+ 2537  vim banking.py
+ 2538  python3 banking.py
+ 2539  vim banking.py
+ 2540  python3 banking.py
+ 2541  vim banking.py
+ 2542  python3 banking.py
+ 2543  vim banking.py
+ 2544  clear
+ 2545  ls
+ 2546  vim accounts.py
+ 2547  vim banking.py
+ 2548  vim accounts.py
+ 2549  vim banking.py
+ 2550  python3 banking.py
+ 2551  vim banking.py
+ 2552  python3 banking.py
+ 2553  vim banking.py
+ 2554  python3 banking.py
+ 2555  vim banking.py
+ 2556  python3 banking.py
+ 2557  wq
+ 2558  vim banking.py
+ 2559  python3 banking.py
+ 2560  vim banking.py
+ 2561  python3 banking.py
+ 2562  clear
+ 2563  ls
+ 2564  vim banking.py
+ 2565  python3 banking.py
+ 2566  vim banking.py
+ 2567  python3 banking.py
+ 2568  vim banking.py
+ 2569  python3 banking.py
+ 2570  vim banking.py
+ 2571  python3 banking.py
+ 2572  vim banking.py
+ 2573  clear
+ 2574  ls
+ 2575  vim accounts.py
+ 2576  python3 banking.py
+ 2577  vim accounts.py
+ 2578  vim banking.py
+ 2579  python3 banking.py
+ 2580  vim banking.py
+ 2581  python3 banking.py
+ 2582  vim banking.py
+ 2583  python3 banking.py
+ 2584  clear
+ 2585  ls
+ 2586  vim README
+ 2587  zip prac06_90021907 *
+ 2588  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 2589  ls
+ 2590  cd .
+ 2591  ls
+ 2592  cd..
+ 2593  cd ..
+ 2594  ls
+ 2595  cd ..
+ 2596  ls
+ 2597  cd practice
+ 2598  ls
+ 2599  vim numbers1.py
+ 2600  vim june
+ 2601  python3 june
+ 2602  mv june june.py
+ 2603  ls
+ 2604  python3 june.py
+ 2605  vim june.py
+ 2606  clear
+ 2607  python3 june.py
+ 2608  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 2609  ls
+ 2610  vim june.py
+ 2611  python3 june.py
+ 2612  vim june.py
+ 2613  python3 june.py
+ 2614  vim june.py
+ 2615  python3 june.py
+ 2616  vim june.py
+ 2617  python3 june.py
+ 2618  vim june.py
+ 2619  python3 june.py
+ 2620  vim june.py
+ 2621  python3 june.py
+ 2622  vim june.py
+ 2623  python3 june.py
+ 2624  vim june.py
+ 2625  python3 june.py
+ 2626  vim june.py
+ 2627  python3 june.py
+ 2628  vim june.py
+ 2629  python3 june.py
+ 2630  vim june.py
+ 2631  python3 june.py
+ 2632  ls
+ 2633  vim practice
+ 2634  ls
+ 2635  cd practice
+ 2636  ls
+ 2637  python3 june.py
+ 2638  vim june.py
+ 2639  python3 june.py
+ 2640  vim june.py
+ 2641  python3 june.py
+ 2642  vim june.py
+ 2643  python3 june.py
+ 2644  vim june.py
+ 2645  python3 june.py
+ 2646  vim june.py
+ 2647  python3 june.py
+ 2648  vim june.py
+ 2649  python3 june.py
+ 2650  vim june.py
+ 2651  python3 june.py
+ 2652  vim june.py
+ 2653  python3 june.py
+ 2654  vim june.py
+ 2655  python3 june.py
+ 2656  ls
+ 2657  cd practice
+ 2658  ls
+ 2659  python3 june.py
+ 2660  ls
+ 2661  vim june.py
+ 2662  python3 june.py
+ 2663  vim june.py
+ 2664  python3 june.py
+ 2665  vim june.py
+ 2666  python3 june.py
+ 2667  vim june.py
+ 2668  python3 june.py
+ 2669  vim june.py
+ 2670  python3 june.py
+ 2671  vim june.py
+ 2672  python3 june.py
+ 2673  vim june.py
+ 2674  python3 june.py
+ 2675  vim june.py
+ 2676  python3 june.py
+ 2677  vim june.py
+ 2678  python3 june.py
+ 2679  vim june.py
+ 2680  python3 june.py
+ 2681  vim june.py
+ 2682  python3 june.py
+ 2683  vim june.py
+ 2684  python3 june.py
+ 2685  vim june.py
+ 2686  python3 june.py
+ 2687  clear
+ 2688  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 2689  ls
+ 2690  cd FOP
+ 2691  ls
+ 2692  cd Prac06
+ 2693  ls
+ 2694  cd ..
+ 2695  ls
+ 2696  cd Prac05
+ 2697  ls
+ 2698  vim weather.py
+ 2699  python3 weather.py
+ 2700  vim weather.py
+ 2701  python3 weather.py
+ 2702  vim weather.py
+ 2703  clear
+ 2704  vim weather.py
+ 2705  python3 weather.py
+ 2706  vim weather.py
+ 2707  python3 weather.py
+ 2708  vim weather.py
+ 2709  python3 weather.py
+ 2710  vim weather.py
+ 2711  ls
+ 2712  vim listcomprehensions.py
+ 2713  ls
+ 2714  vim weather.py
+ 2715  python3 weather.py
+ 2716  vim weather.py
+ 2717  python3 weather.py
+ 2718  cd ..
+ 2719  ls
+ 2720  cd Prac03
+ 2721  ls
+ 2722  python3 numbersarray.py
+ 2723  vim numbersarray.py
+ 2724  ls
+ 2725  python3 growtharray.py
+ 2726  vim growtharray.py
+ 2727  vim growthsubplot.py
+ 2728  vim numbersbar.py
+ 2729  python3 numbersbar.py
+ 2730  vim numbersbar.py
+ 2731  python3 numbersbar.py
+ 2732  vim numbersbar.py
+ 2733  python3 numbersbar.py
+ 2734  vim numbersbar.py
+ 2735  python3 numbersbar.py
+ 2736  2
+ 2737  python3 numbersbar.py
+ 2738  2
+ 2739  3
+ 2740  4
+ 2741  python3 numbersbar.py
+ 2742  4
+ 2743  ls
+ 2744  python3 numbersbar.py
+ 2745  vim numbersbar.py
+ 2746  python3 numbersbar.py
+ 2747  ls
+ 2748  cd practice
+ 2749  ls
+ 2750  mkdir Sample2
+ 2751  ls
+ 2752  cd Sample2
+ 2753  ls
+ 2754  vim Dir1
+ 2755  ls
+ 2756  vim Dir2
+ 2757  vim Dir3
+ 2758  ls
+ 2759  rm Dir1
+ 2760  rm Dir2
+ 2761  rm Dir3
+ 2762  ls
+ 2763  mkdir Dir1
+ 2764  mkdir Dir2
+ 2765  mkdir Dir3
+ 2766  ls
+ 2767  cd Dir2
+ 2768  ls
+ 2769  vim test2b.py
+ 2770  cd ..
+ 2771  ls
+ 2772  cd ..
+ 2773  ls
+ 2774  cd ..
+ 2775  ls
+ 2776  cd FOP
+ 2777  ls
+ 2778  cd Prac06
+ 2779  ls
+ 2780  cd ..
+ 2781  ls
+ 2782  cd Prac05
+ 2783  ls
+ 2784  vim marchweather2.py
+ 2785  cd ..
+ 2786  ls
+ 2787  cd ..
+ 2788  ls
+ 2789  cd practice
+ 2790  ls
+ 2791  cd Sample2
+ 2792  ls
+ 2793  cd Dir2
+ 2794  ls
+ 2795  mv marchweather (2).csv marchweather.csv
+ 2796  ls
+ 2797  vim test2b.py
+ 2798  clear
+ 2799  ls
+ 2800  python3 test2b.py
+ 2801  ls
+ 2802  vim test2b.py
+ 2803  python3 test2b.py
+ 2804  vim test2b.py
+ 2805  python3 test2b.py
+ 2806  vim test2b.py
+ 2807  python3 test2b.py
+ 2808  vim test2b.py
+ 2809  clear
+ 2810  python3 test2b.py
+ 2811  vim test2b.py
+ 2812  python3 test2b.py
+ 2813  vim test2b.py
+ 2814  cd ..
+ 2815  ls
+ 2816  cd ..
+ 2817  ls
+ 2818  cd ..
+ 2819  ls
+ 2820  cd FOP
+ 2821  ls
+ 2822  cd Prac05
+ 2823  ls
+ 2824  cd marchweather2.py
+ 2825  vim marchweather2.py
+ 2826  python3 marchweather2.py
+ 2827  vim marchweather2.py
+ 2828  ls
+ 2829  cd ..
+ 2830  ls
+ 2831  cd practic
+ 2832  cd practice
+ 2833  ls
+ 2834  cd Sample2
+ 2835  ls
+ 2836  cd Dir2
+ 2837  ls
+ 2838  vim test2b.py
+ 2839  python3 test2b.py
+ 2840  vim test2b.py
+ 2841  python3 test2b.py
+ 2842  vim test2b.py
+ 2843  python3 test2b.py
+ 2844  vim test2b.py
+ 2845  python3 test2b.py
+ 2846  vim test2b.py
+ 2847  python3 test2b.py
+ 2848  vim test2b.py
+ 2849  python3 test2b.py
+ 2850  vim test2b.py
+ 2851  python3 test2b.py
+ 2852  vim test2b.py
+ 2853  python3 test2b.py
+ 2854  vim test2b.py
+ 2855  python3 test2b.py
+ 2856  vim test2b.py
+ 2857  python3 test2b.py
+ 2858  vim test2b.py
+ 2859  python3 test2b.py
+ 2860  vim weather.csv
+ 2861  vim test2b.py
+ 2862  python3 test2b.py
+ 2863  vim test2b.py
+ 2864  python3 test2b.py
+ 2865  vim test2b.py
+ 2866  python3 test2b.py
+ 2867  ls
+ 2868  vim data.png
+ 2869  vim test2b.py
+ 2870  ls
+ 2871  cp test2b.py test3b.py
+ 2872  ls
+ 2873  vim test3b.py
+ 2874  python3 test3b.py
+ 2875  vim test3b.py
+ 2876  python3 test3b.py
+ 2877  vim test3b.py
+ 2878  python3 test3b.py
+ 2879  vim test3b.py
+ 2880  python3 test3b.py
+ 2881  vim test3b.py
+ 2882  ls
+ 2883  vim weather.csv
+ 2884  vim test2b.py
+ 2885  python3 test2b.py
+ 2886  vim test2b.py
+ 2887  python3 test2b.py
+ 2888  vim test2b.py
+ 2889  python3 test2b.py
+ 2890  vim test2b.py
+ 2891  python3 test2b.py
+ 2892  vim test2b.py
+ 2893  python3 test2b.py
+ 2894  vim test2b.py
+ 2895  ls
+ 2896  clear
+ 2897  ls
+ 2898  vim weather.csv
+ 2899  rm weather.csv
+ 2900  ls
+ 2901  vim test3b.py
+ 2902  pip install pandas
+ 2903  vim test3b.py
+ 2904  python3 test3b.py
+ 2905  vim test3b.py
+ 2906  python3 test3b.py
+ 2907  vim test3b.py
+ 2908  ls
+ 2909  vim marchweather.csv
+ 2910  ls
+ 2911  clear
+ 2912  ls
+ 2913  vim test3b.py
+ 2914  ls
+ 2915  cd practice
+ 2916  ls
+ 2917  vim new.py
+ 2918  ls
+ 2919  python3 new.py
+ 2920  vim new.py
+ 2921  python3 new.py
+ 2922  vim new.py
+ 2923  python3 new.py
+ 2924  vim new.py
+ 2925  python3 new.py
+ 2926  vim new.py
+ 2927  ls
+ 2928  cd Sample2
+ 2929  ls
+ 2930  cd Dir2
+ 2931  ls
+ 2932  vim test2b.py
+ 2933  ls
+ 2934  cd practice
+ 2935  ls
+ 2936  cd Sample2
+ 2937  ls
+ 2938  cd Dir2
+ 2939  ls
+ 2940  vim data.ong
+ 2941  rm data.ong
+ 2942  ls
+ 2943  vim data.png
+ 2944  ls
+ 2945  cd ..
+ 2946  ls
+ 2947  cd ..
+ 2948  ls
+ 2949  cd ..
+ 2950  ls
+ 2951  cd FOP
+ 2952  ls
+ 2953  mkdir PracTest2
+ 2954  ls
+ 2955  cd Practest2
+ 2956  ls
+ 2957  pwd
+ 2958  cp ../Prac01/README
+ 2959  ls
+ 2960  vim README
+ 2961  ls
+ 2962  rm README
+ 2963  ls
+ 2964  cp ../Prac01/README README
+ 2965  ls
+ 2966  vim README
+ 2967  ls
+ 2968  vim test2a.py
+ 2969  python3 test2a.py
+ 2970  vim test2a.py
+ 2971  python3 test2a.py
+ 2972  vim test2a.py
+ 2973  python3 test2a.py
+ 2974  vim test2a.py
+ 2975  python3 test2a.py
+ 2976  vim test2a.py
+ 2977  python3 test2a.py
+ 2978  vim test2a.py
+ 2979  wq
+ 2980  vim test2a.py
+ 2981  clear
+ 2982  ls
+ 2983  python3 test2a.py
+ 2984  vim test2a.py
+ 2985  python3 test2a.py
+ 2986  vim test2a.py
+ 2987  python3 test2a.py
+ 2988  vim test2a.py
+ 2989  python3 test2a.py
+ 2990  vim test2a.py
+ 2991  python3 test2a.py
+ 2992  vim test2a.py
+ 2993  python3 test2a.py
+ 2994  vim test2a.py
+ 2995  python3 test2a.py
+ 2996  vim test2a.py
+ 2997  python3 test2a.py
+ 2998  vim test2a.py
+ 2999  python3 test2a.py
+ 3000  vim test2a.py
+ 3001  python3 test2a.py
+ 3002  vim test2a.py
+ 3003  python3 test2a.py
+ 3004  vim test2a.py
+ 3005  python3 test2a.py
+ 3006  vim test2a.py
+ 3007  python3 test2a.py
+ 3008  vim test2a.py
+ 3009  python3 test2a.py
+ 3010  vim test2a.py
+ 3011  python3 test2a.py
+ 3012  vim test2a.py
+ 3013  python3 test2a.py
+ 3014  vim test2a.py
+ 3015  python3 test2a.py
+ 3016  vim test2a.py
+ 3017  python3 test2a.py
+ 3018  vim test2a.py
+ 3019  python3 test2a.py
+ 3020  vim test2a.py
+ 3021  python3 test2a.py
+ 3022  vim test2a.py
+ 3023  python3 test2a.py
+ 3024  vim test2a.py
+ 3025  python3 test2a.py
+ 3026  vim test2a.py
+ 3027  python3 test2a.py
+ 3028  vim test2a.py
+ 3029  python3 test2a.py
+ 3030  vim test2a.py
+ 3031  python3 test2a.py
+ 3032  :wq
+ 3033  vim test2a.py
+ 3034  python3 test2a.py
+ 3035  vim test2a.py
+ 3036  python3 test2a.py
+ 3037  vim test2a.py
+ 3038  python3 test2a.py
+ 3039  vim test2a.py
+ 3040  python3 test2a.py
+ 3041  vim test2a.py
+ 3042  python3 test2a.py
+ 3043  vim test2a.py
+ 3044  python3 test2a.py
+ 3045  vim test2a.py
+ 3046  python3 test2a.py
+ 3047  vim test2a.py
+ 3048  python3 test2a.py
+ 3049  vim test2a.py
+ 3050  python3 test2a.py
+ 3051  cleark
+ 3052  ls
+ 3053  clear
+ 3054  ls
+ 3055  python3 test2a.py
+ 3056  wq
+ 3057  vim test2a.py
+ 3058  python3 test2a.py
+ 3059  vim test2a.py
+ 3060  python3 test2a.py
+ 3061  vim test2a.py
+ 3062  python3 test2a.py
+ 3063  vim test2a.py
+ 3064  python3 test2a.py
+ 3065  vim test2a.py
+ 3066  python3 test2a.py
+ 3067  vim test2a.py
+ 3068  python3 test2a.py
+ 3069  vim test2a.py
+ 3070  python3 test2a.py
+ 3071  vim test2a.py
+ 3072  python3 test2a.py
+ 3073  vim test2a.py
+ 3074  python3 test2a.py
+ 3075  vim test2a.py`\nvim test2a.py\nOA
+ 3076  vim test2a.py
+ 3077  python3 test2a.py
+ 3078  vim test2a.py
+ 3079  python3 test2a.py
+ 3080  vim test2a.py
+ 3081  python3 test2a.py
+ 3082  vim test2a.py
+ 3083  python3 test2a.py
+ 3084  vim test2a.py
+ 3085  python3 test2a.py
+ 3086  vim test2a.py
+ 3087  python3 test2a.py
+ 3088  vim test2a.py
+ 3089  python3 test2a.py
+ 3090  vim test2a.py
+ 3091  python3 test2a.py
+ 3092  vim test2a.py
+ 3093  python3 test2a.py
+ 3094  vim test2a.py
+ 3095  python3 test2a.py
+ 3096  vim test2a.py
+ 3097  python3 test2a.py
+ 3098  vim test2a.py
+ 3099  python3 test2a.py
+ 3100  vim test2a.py
+ 3101  python3 test2a.py
+ 3102  vim test2a.py
+ 3103  python3 test2a.py
+ 3104  vim test2a.py
+ 3105  python3 test2a.py
+ 3106  vim test2a.py
+ 3107  python3 test2a.py
+ 3108  vim test2a.py
+ 3109  python3 test2a.py
+ 3110  vim test2a.py
+ 3111  python3 test2a.py
+ 3112  vim test2a.py
+ 3113  python3 test2a.py
+ 3114  vim test2a.py
+ 3115  python3 test2a.py
+ 3116  vim test2a.py
+ 3117  python3 test2a.py
+ 3118  vim test2a.py
+ 3119  python3 test2a.py
+ 3120  vim test2a.py
+ 3121  python3 test2a.py
+ 3122  vim test2a.py
+ 3123  python3 test2a.py
+ 3124  vim test2a.py
+ 3125  python3 test2a.py
+ 3126  vim test2a.py
+ 3127  python3 test2a.py
+ 3128  vim test2a.py
+ 3129  python3 test2a.py
+ 3130  vim test2a.py
+ 3131  python3 test2a.py
+ 3132  vim test2a.py
+ 3133  python3 test2a.py
+ 3134  vim test2a.py
+ 3135  python3 test2a.py
+ 3136  vim test2a.py
+ 3137  python3 test2a.py
+ 3138  vim test2a.py
+ 3139  python3 test2a.py
+ 3140  vim test2a.py
+ 3141  python3 test2a.py
+ 3142  vim test2a.py
+ 3143  python3 test2a.py
+ 3144  vim test2a.py
+ 3145  python3 test2a.py
+ 3146  vim test2a.py
+ 3147  python3 test2a.py
+ 3148  vim test2a.py
+ 3149  python3 test2a.py
+ 3150  vim test2a.py
+ 3151  python3 test2a.py
+ 3152  vim test2a.py
+ 3153  python3 test2a.py
+ 3154  vim test2a.py
+ 3155  python3 test2a.py
+ 3156  vim test2a.py
+ 3157  python3 test2a.py
+ 3158  vim test2a.py
+ 3159  python3 test2a.py
+ 3160  vim test2a.py
+ 3161  python3 test2a.py
+ 3162  vim test2a.py
+ 3163  python3 test2a.py
+ 3164  vim test2a.py
+ 3165  python3 test2a.py
+ 3166  vim test2a.py
+ 3167  python3 test2a.py
+ 3168  vim test2a.py
+ 3169  python3 test2a.py
+ 3170  ls
+ 3171  vim test2a.py
+ 3172  python3 test2a.py
+ 3173  ls
+ 3174  vim graph.png
+ 3175  python3 test2a.py
+ 3176  ls
+ 3177  vim test2a.py
+ 3178  history 50 > hist.txt
+ 3179  ls
+ 3180  vim hist.txt
+ 3181  cd ..
+ 3182  ls
+ 3183  zip -r PracTest2_90021907 PracTest2
+ 3184  ls
+ 3185  cd PracTest2
+ 3186  ls
+ 3187  vim test2a.py
+ 3188  ls
+ 3189  rm graph.png
+ 3190  ls
+ 3191  vim test2a.py
+ 3192  python3 test2a.py
+ 3193  vim test2a.py
+ 3194  python3 test2a.py
+ 3195  ls
+ 3196  vim graph1.png
+ 3197  vim test2a.py
+ 3198  python3 test2a.py
+ 3199  vim test2a.py
+ 3200  python3 test2a.py
+ 3201  ls
+ 3202  cd ..
+ 3203  ls
+ 3204  rm Practest2_90021907.zip
+ 3205  ls
+ 3206  cd PracTest2
+ 3207  ls
+ 3208  cd ..
+ 3209  ls
+ 3210  zip -r PracTest2_90021907 PracTest2
+ 3211  ls
+ 3212  cd PracTest2
+ 3213  ls
+ 3214  vim test2a.py
+ 3215  python3 test2a.py
+ 3216  vim test2a.py
+ 3217  python3 test2a.py
+ 3218  vim test2a.py
+ 3219  ls
+ 3220  vim hist.txt
+ 3221  vim test2a.py
+ 3222  ls
+ 3223  cd ..
+ 3224  ls
+ 3225  cd FOP
+ 3226  ls
+ 3227  mkdir Trimester1
+ 3228  ls
+ 3229  vim Trimester1
+ 3230  ls
+ 3231  cd Trimester1
+ 3232  ls
+ 3233  vim Fibonacci.py
+ 3234  python3 Fibonacci.py
+ 3235  vim Fibonacci.py
+ 3236  python3 Fibonacci.py
+ 3237  vim Fibonacci.py
+ 3238  python3 Fibonacci.py
+ 3239  vim Fibonacci.py
+ 3240  python3 Fibonacci.py
+ 3241  vim Fibonacci.py
+ 3242  python3 Fibonacci.py
+ 3243  vim Fibonacci.py
+ 3244  python3 Fibonacci.py
+ 3245  vim Fibonacci.py
+ 3246  python3 Fibonacci.py
+ 3247  vim Fibonacci.py
+ 3248  python3 Fibonacci.py
+ 3249  vim Fibonacci.py
+ 3250  python3 Fibonacci.py
+ 3251  vim Fibonacci.py
+ 3252  python3 Fibonacci.py
+ 3253  vim Fibonacci.py
+ 3254  python3 Fibonacci.py
+ 3255  vim Fibonacci.py
+ 3256  python3 Fibonacci.py
+ 3257  2
+ 3258  3
+ 3259  4
+ 3260  2
+ 3261  python3 Fibonacci.py
+ 3262  ls
+ 3263  cd Trimester1
+ 3264  ls
+ 3265  python3 Fibonacci.py
+ 3266  ls
+ 3267  vim Fibonacci.py
+ 3268  ls
+ 3269  python3 Fibonacci.py
+ 3270  vim Fibonacci.py
+ 3271  ls
+ 3272  vim QuestionOne-b
+ 3273  ls
+ 3274  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 3275  ls
+ 3276  cd ..
+ 3277  ls
+ 3278  cd Prac01
+ 3279  ls
+ 3280  cd ..
+ 3281  ls
+ 3282  cd Prac03
+ 3283  ls
+ 3284  cd ..
+ 3285  ls
+ 3286  cd ..
+ 3287  ls
+ 3288  cd FOP
+ 3289  ls
+ 3290  cd Trimester1
+ 3291  ls
+ 3292  vim QuestionOne-b
+ 3293  ls
+ 3294  python3 Fibonacci.py
+ 3295  vim Fibonacci.py
+ 3296  python3 Fibonacci.py
+ 3297  vim QuestionOne-b
+ 3298  vim Fibonacci.py
+ 3299  vim QuestionOne-b
+ 3300  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 3301  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3
+ 3302  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 3303  ls
+ 3304  vim QuestionOne-c
+ 3305  cd ..
+ 3306  ls
+ 3307  vim Prac06
+ 3308  ls
+ 3309  cd Prac06
+ 3310  ls
+ 3311  cd ..
+ 3312  ls
+ 3313  cd Prac07
+ 3314  ls
+ 3315  cd ..
+ 3316  ls
+ 3317  cd Prac05
+ 3318  ls
+ 3319  vim heat.py
+ 3320  vim heatsource.py
+ 3321  python3 heatsource.py
+ 3322  vim heatsource.py
+ 3323  python3 heatsource.py
+ 3324  vim heatsource.py
+ 3325  python3 heatsource.py
+ 3326  vim heatsource.py
+ 3327  python3 heatsource.py
+ 3328  vim heatsource.py
+ 3329  python3 heatsource.py
+ 3330  ls
+ 3331  cd ..
+ 3332  lls
+ 3333  ls
+ 3334  cd FOP
+ 3335  ls
+ 3336  cd Trimester1
+ 3337  ls
+ 3338  vim QuestionOne-c
+ 3339  ls
+ 3340  cd ..
+ 3341  ls
+ 3342  cd Prac01
+ 3343  ls
+ 3344  vim test1.py
+ 3345  ls
+ 3346  cd ..
+ 3347  ls
+ 3348  cd Prac03
+ 3349  ls
+ 3350  mkdir Subdir1
+ 3351  ls
+ 3352  mkdir Subdir2
+ 3353  ls
+ 3354  cd Subdir2
+ 3355  ls
+ 3356  cp ../../Prac01/test1.py test1.py
+ 3357  ls
+ 3358  qwd
+ 3359  cd..
+ 3360  ls
+ 3361  cd ..
+ 3362  ls
+ 3363  cd Subdir2
+ 3364  ls
+ 3365  vim test1.py
+ 3366  cd ..
+ 3367  ls
+ 3368  cd Subdir1
+ 3369  ls
+ 3370  cd ..
+ 3371  ls
+ 3372  cd Subdir2
+ 3373  ls
+ 3374  rm test1.py
+ 3375  ls
+ 3376  cd ..
+ 3377  ls
+ 3378  cd Subdir1
+ 3379  cp ../../Prac01/test1.py test1.py
+ 3380  ls
+ 3381  vim test1.py
+ 3382  ls
+ 3383  cd ..
+ 3384  ls
+ 3385  cd ..
+ 3386  ls
+ 3387  cd Trimester1
+ 3388  ls
+ 3389  mkdir Question1
+ 3390  ls
+ 3391  cd Question1
+ 3392  ls
+ 3393  cd ..
+ 3394  clear
+ 3395  ls
+ 3396  mkdir Question2
+ 3397  ls
+ 3398  cd Question2
+ 3399  vim question2-a
+ 3400  python3 question2-a
+ 3401  vim question2-a
+ 3402  python3 question2-a
+ 3403  vim question2-b
+ 3404  python3 question2-b
+ 3405  vim question2-b
+ 3406  python3 question2-b
+ 3407  vim question2-b
+ 3408  python3 question2-b
+ 3409  vim question2-b
+ 3410  python3 question2-b
+ 3411  vim question2-b
+ 3412  vim question2-c
+ 3413  python3 question2-c
+ 3414  vim question2-c
+ 3415  python3 question2-c
+ 3416  vim question2-c
+ 3417  python3 question2-c
+ 3418  vim question2-c
+ 3419  python3 question2-c
+ 3420  vim question2-c
+ 3421  python3 question2-c
+ 3422  ls
+ 3423  vim Display.png
+ 3424  ls
+ 3425  vim multilineplot.py
+ 3426  ls
+ 3427  python3 multilineplot.py
+ 3428  vim multilineplot.py
+ 3429  python3 multilineplot.py
+ 3430  vim multilineplot.py
+ 3431  python3 multilineplot.py
+ 3432  vim multilineplot.py
+ 3433  python3 multilineplot.py
+ 3434  vim multilineplot.py
+ 3435  python3 multilineplot.py
+ 3436  vim multilineplot.py
+ 3437  python3 multilineplot.py
+ 3438  vim multilineplot.py
+ 3439  python3 multilineplot.py
+ 3440  vim multilineplot.py
+ 3441  python3 multilineplot.py
+ 3442  vim multilineplot.py
+ 3443  python3 multilineplot.py
+ 3444  vim multilineplot.py
+ 3445  python3 multilineplot.py
+ 3446  ls
+ 3447  cd ..
+ 3448  ls
+ 3449  mkdir Question3
+ 3450  vim question3-a
+ 3451  python3 question3-a
+ 3452  vim question3-a
+ 3453  python3 question3-a
+ 3454  vim question3-a
+ 3455  python3 question3-a
+ 3456  vim question3-a
+ 3457  python3 question3-a
+ 3458  vim question3-a
+ 3459  python3 question3-a
+ 3460  vim question3-a
+ 3461  python3 question3-a
+ 3462  vim question3-a
+ 3463  python3 question3-a
+ 3464  vim question3-a
+ 3465  python3 question3-a
+ 3466  vim question3-a
+ 3467  python3 question3-a
+ 3468  vim question3-a
+ 3469  python3 question3-a
+ 3470  vim question3-a
+ 3471  python3 question3-a
+ 3472  vim question3-a
+ 3473  python3 question3-a
+ 3474  vim question3-a
+ 3475  python3 question3-a
+ 3476  vim question3-a
+ 3477  python3 question3-a
+ 3478  vim question3-a
+ 3479  python3 question3-a
+ 3480  vim question3-a
+ 3481  python3 question3-a
+ 3482  vim question3-a
+ 3483  ls
+ 3484  rm question3-a
+ 3485  ls
+ 3486  cd Question2
+ 3487  ls
+ 3488  cd ..
+ 3489  ls
+ 3490  cd Question3
+ 3491  ls
+ 3492  vim question3-a
+ 3493  ls
+ 3494  cp question3-a question3-b
+ 3495  ls
+ 3496  rm question3-a
+ 3497  ls
+ 3498  /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/jinwookim/readyjune123/hello.py
+ 3499  vim question3-c
+ 3500  python3 question3-c
+ 3501  vim question3-c
+ 3502  python3 question3-c
+ 3503  vim question3-c
+ 3504  python3 question3-c
+ 3505  vim question3-c
+ 3506  python3 question3-c
+ 3507  vim question3-c
+ 3508  python3 question3-c
+ 3509  vim question3-c
+ 3510  python3 question3-c
+ 3511  vim question3-c
+ 3512  python3 question3-c
+ 3513  vim question3-c
+ 3514  python3 question3-c
+ 3515  vim question3-c
+ 3516  python3 question3-c
+ 3517  vim question3-c
+ 3518  python3 question3-c
+ 3519  vim question3-c
+ 3520  python3 question3-c
+ 3521  vim question3-c
+ 3522  python3 question3-c
+ 3523  vim question3-c
+ 3524  python3 question3-c
+ 3525  vim question3-c
+ 3526  python3 question3-c
+ 3527  vim question3-c
+ 3528  python3 question3-c
+ 3529  vim question3-c
+ 3530  python3 question3-c
+ 3531  vim question3-c
+ 3532  python3 question3-c
+ 3533  vim question3-c
+ 3534  python3 question3-c
+ 3535  vim question3-c
+ 3536  python3 question3-c
+ 3537  vim question3-c
+ 3538  python3 question3-c
+ 3539  vim question3-c
+ 3540  python3 question3-c
+ 3541  vim question3-c
+ 3542  python3 question3-c
+ 3543  vim question3-c
+ 3544  python3 question3-c
+ 3545  vim question3-c
+ 3546  python3 question3-c
+ 3547  vim question3-c
+ 3548  python3 question3-c
+ 3549  vim question3-c
+ 3550  python3 question3-c
+ 3551  vim question3-c
+ 3552  python3 question3-c
+ 3553  vim question3-c
+ 3554  cd ..
+ 3555  ls
+ 3556  cd ..
+ 3557  ls
+ 3558  cd Prac02
+ 3559  ls
+ 3560  vim bucket2.py
+ 3561  cd ..
+ 3562  ls
+ 3563  cd Trimester1
+ 3564  ls
+ 3565  cd Question3
+ 3566  ls
+ 3567  vim question3-c
+ 3568  python3 question3-c
+ 3569  vim question3-c
+ 3570  python3 question3-c
+ 3571  vim question3-c
+ 3572  python3 question3-c
+ 3573  vim question3-c
+ 3574  cd ..
+ 3575  ls
+ 3576  cd ..
+ 3577  ls
+ 3578  cd Prac02
+ 3579  ls
+ 3580  vim bucket2.py
+ 3581  cd ..
+ 3582  ls
+ 3583  cd Trimester1
+ 3584  ls
+ 3585  cd Question3
+ 3586  ls
+ 3587  vim question3-c
+ 3588  python3 question3-c
+ 3589  vim question3-c
+ 3590  python3 question3-c
+ 3591  vim question3-c
+ 3592  python3 question3-c
+ 3593  vim question3-c
+ 3594  cd ..
+ 3595  ls
+ 3596  mkdir Question4
+ 3597  ls
+ 3598  cd Question4
+ 3599  ls
+ 3600  vim zeros.py
+ 3601  python3 zeros.py
+ 3602  vim zeros.py
+ 3603  vim prettyface.py
+ 3604  python3 prettyface.py
+ 3605  vim prettyface.py
+ 3606  python3 prettyface.py
+ 3607  vim prettyface.py
+ 3608  python3 prettyface.py
+ 3609  vim prettyface.py
+ 3610  python3 prettyface.py
+ 3611  vim prettyface.py
+ 3612  python3 prettyface.py
+ 3613  vim prettyface.py
+ 3614  python3 prettyface.py
+ 3615  vim prettyface.py
+ 3616  python3 prettyface.py
+ 3617  vim prettyface.py
+ 3618  python3 prettyface.py
+ 3619  vim prettyface.py
+ 3620  python3 prettyface.py
+ 3621  vim prettyface.py
+ 3622  python3 prettyface.py
+ 3623  vim prettyface.py
+ 3624  python3 prettyface.py
+ 3625  ls
+ 3626  s
+ 3627  ls
+ 3628  vim Question4-c
+ 3629  ls
+ 3630  cd ..
+ 3631  ls
+ 3632  mkdir Question5
+ 3633  ls
+ 3634  cd Question5
+ 3635  ls
+ 3636  vim question1
+ 3637  ls
+ 3638  cd ..
+ 3639  ls
+ 3640  cd Question2
+ 3641  ls
+ 3642  vim question2-c
+ 3643  vim multilineplot.py
+ 3644  ls
+ 3645  cd ..
+ 3646  ls
+ 3647  cd Question5
+ 3648  ls
+ 3649  vim question1
+ 3650  cd ..
+ 3651  ls
+ 3652  cd Question2
+ 3653  ls
+ 3654  python3 question2-c
+ 3655  cd ..
+ 3656  ls
+ 3657  cd Question5
+ 3658  ls
+ 3659  vim question1
+ 3660  ls
+ 3661  vim number.txt
+ 3662  vim double.py
+ 3663  vim number.txt
+ 3664  python3 double.py
+ 3665  vim number.txt
+ 3666  vim double.py
+ 3667  python3 double.py
+ 3668  vim double.py
+ 3669  vim number.txt
+ 3670  python3 double.py
+ 3671  vim double.py
+ 3672  python3 double.py
+ 3673  vim double.py
+ 3674  python3 double.py
+ 3675  vim double.py
+ 3676  python3 double.py
+ 3677  vim double.py
+ 3678  python3 double.py
+ 3679  vim double.py
+ 3680  python3 double.py
+ 3681  vim double.py
+ 3682  ls -r
+ 3683  ls -l
+ 3684  ls
+ 3685  pwd
+ 3686  vim hello
+ 3687  ls
+ 3688  os.remove(hello)
+ 3689  ls
+ 3690  rm hello
+ 3691  ls
+ 3692  vim question1
+ 3693  cd ..
+ 3694  ls
+ 3695  cd Question1
+ 3696  ls
+ 3697  vim QuestionOne-b
+ 3698  ls
+ 3699  vim QuestionOne-c
+ 3700  cd ..
+ 3701  ls
+ 3702  cd ..
+ 3703  ls
+ 3704  cd Prac01
+ 3705  ls
+ 3706  cd ..
+ 3707  ks
+ 3708  ls
+ 3709  cd Prac02
+ 3710  ls
+ 3711  cd ..
+ 3712  cd Prac03
+ 3713  ls
+ 3714  cd Subdir2
+ 3715  ls
+ 3716  cd ..
+ 3717  ls
+ 3718  cd Subdir1
+ 3719  s
+ 3720  ls
+ 3721  vim test1.py
+ 3722  cd ..
+ 3723  ls
+ 3724  cd Trimester1
+ 3725  ls
+ 3726  cd Question1
+ 3727  ls
+ 3728  vim QuestionOne-d
+ 3729  ls
+ 3730  vim nothing.py
+ 3731  ls
+ 3732  clear
+ 3733  ls
+ 3734  cd ..
+ 3735  ls
+ 3736  mkdir abcd
+ 3737  ls
+ 3738  cd abcd
+ 3739  vim nothing.py
+ 3740  ls
+ 3741  cd ..
+ 3742  rmdir abcd
+ 3743  rm -rf/abcd
+ 3744  ls
+ 3745  cd abcd
+ 3746  ls
+ 3747  cd ..
+ 3748  rmdir /s abcd
+ 3749  ls
+ 3750  rmdir /S abcd
+ 3751  C:>rmdir /S abcd
+ 3752  rmdir /q /s abcd
+ 3753  rmdir /S abcd
+ 3754  ls -la
+ 3755  rm -rf
+ 3756  ls
+ 3757  rm -rf abcd
+ 3758  ls
+ 3759  vim rmdir
+ 3760  ls
+ 3761  rm rmdir
+ 3762  ls
+ 3763  cd Question1
+ 3764  ls
+ 3765  rm nothing.py
+ 3766  ls
+ 3767  vim QuestionOne-d
+ 3768  ls
+ 3769  cd ..
+ 3770  ls
+ 3771  cd Question2
+ 3772  ls
+ 3773  cd ..
+ 3774  ls
+ 3775  cd Question3
+ 3776  ls
+ 3777  vim question3-a
+ 3778  cd ..
+ 3779  ls
+ 3780  cd ..
+ 3781  ls
+ 3782  cd Prac04
+ 3783  ls
+ 3784  vim conversions.py
+ 3785  cd ..
+ 3786  ls
+ 3787  cd Trimester1
+ 3788  ls
+ 3789  cd Question3
+ 3790  ks
+ 3791  ls
+ 3792  vim question3-a
+ 3793  python3 question3-a
+ 3794  vim question3-a
+ 3795  python3 question3-a
+ 3796  vim question3-a
+ 3797  python3 question3-a
+ 3798  vim question3-a
+ 3799  python3 question3-a
+ 3800  vim question3-a
+ 3801  python3 question3-a
+ 3802  vim question3-a
+ 3803  python3 question3-a
+ 3804  vim question3-a
+ 3805  python3 question3-a
+ 3806  vim question3-a
+ 3807  python3 question3-a
+ 3808  vim question3-a
+ 3809  python3 question3-a
+ 3810  vim question3-a
+ 3811  ls
+ 3812  vim question3-c
+ 3813  vim question3-a
+ 3814  python3 question3-a
+ 3815  vim question3-a
+ 3816  python3 question3-a
+ 3817  vim question3-a
+ 3818  python3 question3-a
+ 3819  vim question3-a
+ 3820  python3 question3-a
+ 3821  vim question3-a
+ 3822  python3 question3-a
+ 3823  vim question3-a
+ 3824  python3 question3-a
+ 3825  cd ..
+ 3826  ls
+ 3827  cd Question4
+ 3828  ls
+ 3829  vim zeros.py
+ 3830  python3 zeros.py
+ 3831  vim zeros.py
+ 3832  python3 zeros.py
+ 3833  vim zeros.py
+ 3834  python3 zeros.py
+ 3835  vim zeros.py
+ 3836  python3 zeros.py
+ 3837  vim zeros.py
+ 3838  python3 zeros.py
+ 3839  vim zeros.py
+ 3840  python3 zeros.py
+ 3841  vim zeros.py
+ 3842  python3 zeros.py
+ 3843  vim zeros.py
+ 3844  python3 zeros.py
+ 3845  vim zeros.py
+ 3846  python3 zeros.py
+ 3847  wq
+ 3848  vim zeros.py
+ 3849  python3 zeros.py
+ 3850  vim zeros.py
+ 3851  python3 zeros.py
+ 3852  vim zeros.py
+ 3853  python3 zeros.py
+ 3854  vim zeros.py
+ 3855  python3 zeros.py
+ 3856  vim zeros.py
+ 3857  cd ..
+ 3858  ls
+ 3859  cd Question4
+ 3860  ls
+ 3861  vim Question4-c
+ 3862  ls
+ 3863  cd ..
+ 3864  ls
+ 3865  cd Question3
+ 3866  ls
+ 3867  vim question3-a
+ 3868  python3 question3-a
+ 3869  vim question3-a
+ 3870  python3 question3-a
+ 3871  cd ..
+ 3872  ls
+ 3873  cd Question1
+ 3874  ls
+ 3875  vim Fibonacci.py
+ 3876  cd ..
+ 3877  ls
+ 3878  cd Question2
+ 3879  ls
+ 3880  python3 question2-a
+ 3881  vim question2-a
+ 3882  ls
+ 3883  pwd
+ 3884  cd /Prac3
+ 3885  cd /Prac03
+ 3886  ls
+ 3887  cd ..
+ 3888  ls
+ 3889  cd ../Prac03
+ 3890  cd ..
+ 3891  ls
+ 3892  cd Prac05
+ 3893  ls
+ 3894  vim marchweather.csv
+ 3895  vim marchweater2.py
+ 3896  ls
+ 3897  vim marchweather2.py
+ 3898  vim marchweather.csv
+ 3899  vim marchweather2.py
+ 3900  cd ..
+ 3901  ls
+ 3902  cd Trimester1
+ 3903  ls
+ 3904  cd Question5
+ 3905  ls
+ 3906  rm number.txt
+ 3907  ls
+ 3908  vim double.py
+ 3909  vim number.csv
+ 3910  vim double.py
+ 3911  ls
+ 3912  python3 double.py
+ 3913  ls
+ 3914  vim number.csv
+ 3915  vim double.py
+ 3916  python3 double.p
+ 3917  python3 double.py
+ 3918  python3 double.p
+ 3919  vim double.py
+ 3920  python3 double.py
+ 3921  vim double.py
+ 3922  python3 double.py
+ 3923  vim double.py
+ 3924  python3 double.py
+ 3925  vim double.py
+ 3926  python3 double.py
+ 3927  vim double.py
+ 3928  python3 double.py
+ 3929  vim double.py
+ 3930  python3 double.py
+ 3931  vim double.py
+ 3932  vim number.csv
+ 3933  vim double.py
+ 3934  python3 double.py
+ 3935  vim double.py
+ 3936  python3 double.py
+ 3937  vim double.py
+ 3938  python3 double.py
+ 3939  vim double.py
+ 3940  python3 double.py
+ 3941  vim double.py
+ 3942  python3 double.py
+ 3943  vim double.py
+ 3944  python3 double.py
+ 3945  vim double.py
+ 3946  python3 double.py
+ 3947  vim double.py
+ 3948  python3 double.py
+ 3949  vim double.py
+ 3950  python3 double.py
+ 3951  vim double.py
+ 3952  python3 double.py
+ 3953  vim double.py
+ 3954  python3 double.py
+ 3955  vim double.py
+ 3956  python3 double.py
+ 3957  vim double.py
+ 3958  python3 double.py
+ 3959  vim double.py
+ 3960  python3 double.py
+ 3961  vim double.py
+ 3962  python3 double.py
+ 3963  vim double.py
+ 3964  python3 double.py
+ 3965  cd ..
+ 3966  ls
+ 3967  cd ..
+ 3968  ls
+ 3969  cd Trimester1
+ 3970  ls
+ 3971  cd ..
+ 3972  ls
+ 3973  cd Prac05
+ 3974  ls
+ 3975  vim marchweather2.py
+ 3976  python /Users/jinwookim/FOP/Trimester1/Question5/double.py
+ 3977  vim weather.py
+ 3978  vim marchweather.csv
+ 3979  vim weather.py
+ 3980  cd ..
+ 3981  ls
+ 3982  cd Trimester1
+ 3983  ls
+ 3984  cd Question5
+ 3985  ls
+ 3986  vim number.csv
+ 3987  python3 double.py
+ 3988  vim double.py
+ 3989  python3 double.py
+ 3990  vim double.py
+ 3991  python3 double.py
+ 3992  vim double.py
+ 3993  vim number.csv
+ 3994  python3 double.py
+ 3995  vim number.csv
+ 3996  python3 double.py
+ 3997  vim double.py
+ 3998  python3 double.py
+ 3999  vim double.py
+ 4000  python3 double.py
+ 4001  vim double.py
+ 4002  vim number.csv
+ 4003  vim double.py
+ 4004  python3 double.py
+ 4005  vim double.py
+ 4006  python3 double.py
+ 4007  vim double.py
+ 4008  python3 double.py
+ 4009  vim double.py
+ 4010  python3 double.py
+ 4011  vim double.py
+ 4012  python3 double.py
+ 4013  vim double.py
+ 4014  python3 double.py
+ 4015  vim double.py
+ 4016  python3 double.py
+ 4017  vim double.py
+ 4018  cd ..
+ 4019  ls
+ 4020  cd ..
+ 4021  ls
+ 4022  cd Prac04
+ 4023  ls
+ 4024  vim zeros.py
+ 4025  cd ..
+ 4026  ls
+ 4027  cd Trimester1
+ 4028  ls
+ 4029  cd Question4
+ 4030  ls
+ 4031  vim zeros.py
+ 4032  ls
+ 4033  rm zeros.py
+ 4034  ls
+ 4035  cp ../../Prac04/zeros.py zeros.py
+ 4036  ls
+ 4037  vim zeros.py
+ 4038  python3 zeros.py
+ 4039  cd ..
+ 4040  ls
+ 4041  cd Question5
+ 4042  ls
+ 4043  cd ..
+ 4044  ls
+ 4045  cd Question5
+ 4046  cd ..
+ 4047  ls
+ 4048  cd ..
+ 4049  ls
+ 4050  zip 90021907
+ 4051  ls
+ 4052  cd Trimester1
+ 4053  ls
+ 4054  cd ..
+ 4055  zip 90021907_jinookim *
+ 4056  ls
+ 4057  cd Trimester1
+ 4058  ls
+ 4059  cd Question5
+ 4060  ls
+ 4061  cd double.py
+ 4062  vim double.py
+ 4063  ls
+ 4064  cd FOP
+ 4065  ls
+ 4066  cd Prac07
+ 4067  ls
+ 4068  vim shelters.py
+ 4069  ls
+ 4070  cd FOP
+ 4071  ls
+ 4072  cd Prac06
+ 4073  ks
+ 4074  ls
+ 4075  cd ..
+ 4076  ls
+ 4077  cd Prac07
+ 4078  ls
+ 4079  vim shelters.py
+ 4080  python3 shelters.py
+ 4081  vim shelters.py
+ 4082  vim animals.py
+ 4083  ls
+ 4084  python3 animals.py
+ 4085  python3 shelters.py
+ 4086  cd ..
+ 4087  ls
+ 4088  cd Prac06
+ 4089  ls
+ 4090  vim animas.py
+ 4091  ls
+ 4092  vim animals.py
+ 4093  cd ..
+ 4094  ls
+ 4095  vim Prac07
+ 4096  ls
+ 4097  cd Prac07
+ 4098  ls
+ 4099  vim animals.py
+ 4100  cd ..
+ 4101  ls
+ 4102  cd Prac06
+ 4103  ls
+ 4104  python3 animals.py
+ 4105  cd ..
+ 4106  ls
+ 4107  cd Prac07
+ 4108  ls
+ 4109  vim shelters.py
+ 4110  python3 shelters.py
+ 4111  vim shelters.py
+ 4112  cd ..
+ 4113  ls
+ 4114  cd Prac06
+ 4115  ls
+ 4116  vim animals.py
+ 4117  cd ..
+ 4118  ls
+ 4119  cd Prac07
+ 4120  ls
+ 4121  mv shelters.py 
+ 4122  ls
+ 4123  mv shelters.py testshelters.py
+ 4124  ls
+ 4125  mv animals.py shelter.py
+ 4126  ls
+ 4127  cp ../Prac06/animals.py animals.py
+ 4128  ls
+ 4129  python3 testshelters.py
+ 4130  vim animals.py
+ 4131  ls
+ 4132  clear
+ 4133  ls
+ 4134  vim shelter.py
+ 4135  rm shelter.py
+ 4136  ls
+ 4137  animals.py
+ 4138  vim animals.py
+ 4139  python3 testshelters.py
+ 4140  vim animals.py
+ 4141  python3 testshelters.py
+ 4142  vim animals.py
+ 4143  mv testshelters.py shelters.py
+ 4144  ls
+ 4145  python3 shelters.py
+ 4146  vim animals.py
+ 4147  vim shelters.py
+ 4148  python3 shelters.py
+ 4149  ls
+ 4150  vim animals.py
+ 4151  rm shelters.py testshelters.py
+ 4152  ls
+ 4153  vim shelter.py
+ 4154  vim animals.py
+ 4155  ls
+ 4156  vim testshelter.py
+ 4157  python3 testshelter.py
+ 4158  vim shelter.py
+ 4159  python3 testshelter.py
+ 4160  vim animals.py
+ 4161  touch test.py
+ 4162  vim ~/.zshrc 
+ 4163  sourcw ~/.zshrc
+ 4164  source ~/.zshrc
+ 4165  rm test
+ 4166  rm test.py
+ 4167  ls
+ 4168  python3 testshelter.py
+ 4169  vim testshelter.py
+ 4170  ls
+ 4171  vim testshelter.py
+ 4172  vim animals.py
+ 4173  python3 testshelter.py
+ 4174  vim animals.py
+ 4175  vim testshelter.py
+ 4176  python3 testshelter.py
+ 4177  ls
+ 4178  vim shelter.py
+ 4179  python3 testshelter.py
+ 4180  vim testshelter.py
+ 4181  ls
+ 4182  vim shelter.py
+ 4183  ls
+ 4184  python3 testshelter.py
+ 4185  vim shelter.py
+ 4186  ls
+ 4187  vim animals.py
+ 4188  vim shelter.py
+ 4189  python3 testshelter.py
+ 4190  vim shelter.py
+ 4191  python3 testshelter.py
+ 4192  :wq
+ 4193  ls
+ 4194  vim shelter.py
+ 4195  vim testshelter.py
+ 4196  ls
+ 4197  vim shelter.py
+ 4198  vim tetshelter.py
+ 4199  vim testshelter.py
+ 4200  ls
+ 4201  vim animals.py
+ 4202  vim shelter.py
+ 4203  ls
+ 4204  python3 testshelter.py
+ 4205  vim animals.py
+ 4206  ls
+ 4207  vim shelter.py
+ 4208  vim animals.py
+ 4209  cd ..
+ 4210  ls
+ 4211  cd Trimester1
+ 4212  ls
+ 4213  cd Question5
+ 4214  ls
+ 4215  vim number.csv
+ 4216  vim double.py
+ 4217  python3 double.py
+ 4218  ls
+ 4219  cd Fop
+ 4220  cd FOP
+ 4221  ls
+ 4222  cd Prac05
+ 4223  ls
+ 4224  vim heatsourc.py
+ 4225  vim heatsource.py
+ 4226  cd ..
+ 4227  ls
+ 4228  cd Prac01
+ 4229  ls
+ 4230  vim hello.py
+ 4231  python3 hello.py
+ 4232  ls
+ 4233  cd FOP
+ 4234  ls
+ 4235  cd Prac07
+ 4236  ls
+ 4237  python3 testshelter.py
+ 4238  la
+ 4239  ls
+ 4240  vim animals.py
+ 4241  vim shelter.py
+ 4242  ls
+ 4243  vim testshelter.py
+ 4244  python3 testshelter.py
+ 4245  ls
+ 4246  vim shelter.py
+ 4247  clear
+ 4248  ls
+ 4249  vim testshelter.py
+ 4250  python3 testshelter.py
+ 4251  vim testshelter.py
+ 4252  python3 testshelter.py
+ 4253  vim testshelter.py
+ 4254  ls
+ 4255  vim shelter.py
+ 4256  vim animals.py
+ 4257  vim shelter.py
+ 4258  ls
+ 4259  python3 testshelter.py
+ 4260  ls
+ 4261  vim people.py
+ 4262  ls
+ 4263  vim testPeople.py
+ 4264  python3 testPeople.py
+ 4265  ls
+ 4266  vim people.py
+ 4267  python3 testPeople.py
+ 4268  vim people.py
+ 4269  python3 testPeople.py
+ 4270  vim people.py
+ 4271  python3 testPeople.py
+ 4272  vim testPeople.py
+ 4273  python3 testPeople.py
+ 4274  vim testPeople.py
+ 4275  vim people.py
+ 4276  python3 testPeople.py
+ 4277  vim testPeople.py
+ 4278  vim people.py
+ 4279  vim testPeople.py
+ 4280  python3 testPeople.py
+ 4281  vim testPeople.py
+ 4282  python3 testPeople.py
+ 4283  vim people.py
+ 4284  vim testPeople.py
+ 4285  vim people.py
+ 4286  python3 testpePeople.py
+ 4287  ls
+ 4288  python3 testPeople.py
+ 4289  vim people.py
+ 4290  python3 testPeople.py
+ 4291  vim testPeople.py
+ 4292  python3 testPeople.py
+ 4293  vim testPeople.py
+ 4294  python3 testPeople.py
+ 4295  vim testPeople.py
+ 4296  python3 testPeople.py
+ 4297  vim testPeople.py
+ 4298  python3 testPeople.py
+ 4299  vim testPeople.py
+ 4300  python3 testPeople.py
+ 4301  vim testPeople.py
+ 4302  python3 testPeople.py
+ 4303  vim peopel.py
+ 4304  ls
+ 4305  vim people.py
+ 4306  python3 testPeople.py
+ 4307  ls
+ 4308  vim people.py
+ 4309  ls
+ 4310  vim testPeople.py
+ 4311  vim people.py
+ 4312  python3 testPeople.py
+ 4313  vim people.py
+ 4314  vim testPeople.py
+ 4315  vim people.py
+ 4316  ls
+ 4317  vim testPeople.py
+ 4318  vim people.py
+ 4319  python3 testPeople.py
+ 4320  vim testPeople.py
+ 4321  python3 testPeople.py
+ 4322  vim people.py
+ 4323  vim testPeople.py
+ 4324  vim people.py
+ 4325  python3 testPeople.py
+ 4326  vim people.py
+ 4327  python3 testPeople.py
+ 4328  vim testPeople.py
+ 4329  vim people.py
+ 4330  python3 testPeople.py
+ 4331  vim people.py
+ 4332  python3 testPeople.py
+ 4333  vim people.py
+ 4334  python3 testPeople.py
+ 4335  vim people.py
+ 4336  python3 testPeople.py
+ 4337  vim people.py
+ 4338  python3 testPeople.py
+ 4339  vim people.py
+ 4340  python3 testPeople.py
+ 4341  ls
+ 4342  vim testPeople.py
+ 4343  vim people.py
+ 4344  python3 testPeople.py
+ 4345  vim people.csv
+ 4346  ls
+ 4347  vim peoplecsv.py
+ 4348  python3 peoplecsv.py
+ 4349  vim peoplecsv.py
+ 4350  python3 peoplecsv.py
+ 4351  vim peoplecsv.py
+ 4352  python3 peoplecsv.py
+ 4353  vim peoplecsv.py
+ 4354  python3 peoplecsv.py
+ 4355  vim peoplecsv.py
+ 4356  python3 peoplecsv.py
+ 4357  vim peoplecsv.py
+ 4358  python3 peoplecsv.py
+ 4359  vim peoplecsv.py
+ 4360  python3 peoplecsv.py
+ 4361  vim peoplecsv.py
+ 4362  ls
+ 4363  cp ../Prac01/README README
+ 4364  ls
+ 4365  vim README
+ 4366  ls
+ 4367  cd ..
+ 4368  ls
+ 4369  zip Prac07_<90021907> *
+ 4370  cd Prac07
+ 4371  ls
+ 4372  cd ..
+ 4373  zip Prac07_90021907 *
+ 4374  ls
+ 4375  pip3 install jupyter
+ 4376  ls
+ 4377  cd FOP
+ 4378  ls
+ 4379  cd Prac08
+ 4380  ls
+ 4381  clear
+ 4382  jupyter notebook
+ 4383  ls
+ 4384  mv pops.pyipynb pops.py
+ 4385  ls
+ 4386  mv pops.py.ipynb pops.py
+ 4387  run pops.py
+ 4388  python3 pops.py
+ 4389  vim pops.py
+ 4390  rm pops.py pops.py.ipynb
+ 4391  ls
+ 4392  jupyter notebook
+ 4393  ls
+ 4394  vim rumple.txt
+ 4395  65;47;28M
+ 4396  ls
+ 4397  vim rumple.txt
+ 4398  /RUMPEL
+ 4399  vim rumple.txt
+ 4400  jupyter notebook
+ 4401  ls
+ 4402  vim surveys.csv
+ 4403  jupyter notebook
+ 4404  ls
+ 4405  cp ../Prac01/README README
+ 4406  ls
+ 4407  vim README
+ 4408  ls
+ 4409  zip Prac08_90021907 *
+ 4410  ls
+ 4411  cd FOP
+ 4412  ls
+ 4413  cd Prac08
+ 4414  ls
+ 4415  cd pandasurvey.ipynb
+ 4416  vim pandasurvey.ipynb
+ 4417  cd FOP
+ 4418  ls
+ 4419  cd Prac08
+ 4420  jupyter notebook
+ 4421  ls
+ 4422  git branch
+ 4423  ls -l
+ 4424  git status
+ 4425  ls -a
+ 4426  .git/
+ 4427  ls
+ 4428  ls -a
+ 4429  git status
+ 4430  ls
+ 4431  cd..
+ 4432  cd ..
+ 4433  ls
+ 4434  git clone  https://github.com/readyjune/helloworld.git
+ 4435  git init
+ 4436  git clone  https://github.com/readyjune/helloworld.git
+ 4437  ls
+ 4438  git mkdir scenes
+ 4439  mkdir scnes
+ 4440  ls
+ 4441  cd helloworld
+ 4442  ls
+ 4443  rmdir scenes
+ 4444  rm scnes
+ 4445  rmdir scnes
+ 4446  delete scnes
+ 4447  git 
+ 4448  git show
+ 4449  d
+ 4450  ls
+ 4451  git add jinwoo.java
+ 4452  git branch mynewbranch
+ 4453  ls
+ 4454  ls -a
+ 4455  git config --global user.name "jinwookim"
+ 4456  git init
+ 4457  ls
+ 4458  cd worksheet4
+ 4459  ls
+ 4460  cd ..
+ 4461  cd takehome
+ 4462  mkdir takehome
+ 4463  ls
+ 4464  cd takehome
+ 4465  ls
+ 4466  git init
+ 4467  ls -a
+ 4468  cp ../worksheet4/maze.py maze.py
+ 4469  ls
+ 4470  git status
+ 4471  git add maze.py
+ 4472  git status
+ 4473  git commit -m "Initial commit."
+ 4474  git status
+ 4475  ls
+ 4476  vim maze.py
+ 4477  git log
+ 4478  vim gridviewr.py
+ 4479  mv gridview.py viewr.py
+ 4480  mv gridviewer.py viewer.py
+ 4481  ls
+ 4482  mv gridviewr.py viewer.py
+ 4483  git status
+ 4484  git add viewer.py
+ 4485  git status
+ 4486  git add -A gridviewr.py
+ 4487  ls
+ 4488  git mv viewer.py viewer1.py
+ 4489  git status
+ 4490  git commit -m "Updated module name"
+ 4491  git branch updating_maze
+ 4492  git branch updating_messages
+ 4493  git branch
+ 4494  git checkout updating_maze
+ 4495  git log
+ 4496  git remote add orgigin https://github.com/readyjune/helloworld.git
+ 4497  git remote -v
+ 4498  git push -u origin master
+ 4499  git log
+ 4500  git clone https://github.com/readyjune/helloworld.git
+ 4501  ls
+ 4502  cd helloworld
+ 4503  ls
+ 4504  cd ..
+ 4505  ls
+ 4506  git branch change_symbols
+ 4507  git checkout change_symbols
+ 4508  git push -u origin change_symbols
+ 4509  git fetch origin change_symbols
+ 4510  git checkout change_symbols
+ 4511  git merge origin/change_symbols
+ 4512  ls
+ 4513  cd helloworld
+ 4514  ls
+ 4515  mkdir 1
+ 4516  mkdir 2
+ 4517  ls
+ 4518  cd 1
+ 4519  vim hello.py
+ 4520  vim bye.py
+ 4521  git clone https://github.com/readyjune/helloworld.git
+ 4522  ls
+ 4523  cd helloworld
+ 4524  ls
+ 4525  git branch 
+ 4526  git bracn jin
+ 4527  git branch jin
+ 4528  ls
+ 4529  cd ..
+ 4530  ls
+ 4531  cd helloworld
+ 4532  ls
+ 4533  cd ..
+ 4534  ls
+ 4535  cd ..
+ 4536  ls
+ 4537  cd ..
+ 4538  ls
+ 4539  cd worksheet4
+ 4540  ls
+ 4541  vim Maze.py
+ 4542  git add Maze.py
+ 4543  cd ..
+ 4544  ls
+ 4545  cd worksheet4
+ 4546  ls
+ 4547  git init
+ 4548  git vim Maze.py
+ 4549  vim Maze.py
+ 4550  git status
+ 4551  git add Maze.py
+ 4552  git status
+ 4553  ls
+ 4554  git branch jinwoo
+ 4555  ls
+ 4556  git branch
+ 4557  git checkout master
+ 4558  git merge jinwoo
+ 4559  git fetch orgin jinwoo
+ 4560  git branch
+ 4561  git fetch master jinwoo
+ 4562  git branch
+ 4563  git push
+ 4564  git fetch
+ 4565  git push -u origin master
+ 4566  ls
+ 4567  git mv Maze.py maze.py
+ 4568  ls
+ 4569  mv maze.py Maze.py
+ 4570  ls
+ 4571  cd FOP
+ 4572  ls
+ 4573  cd Driverless
+ 4574  mkdir Driverless
+ 4575  ls
+ 4576  cd Driverless
+ 4577  ls
+ 4578  vim bus
+ 4579  jupyter notebook
+ 4580  pip install queuelib
+ 4581  pip install queue
+ 4582  pip install queues
+ 4583  juypter notebook
+ 4584  jupyter notebook
+ 4585  ls
+ 4586  vim circular_queue.py
+ 4587  python3 circular_queue.py
+ 4588  vim circular_queue.py
+ 4589  ls
+ 4590  mv bus bus.py
+ 4591  ls
+ 4592  vim bus.py
+ 4593  python3 bus.py
+ 4594  jupyther notebook
+ 4595  jupyter notebook
+ 4596  ls
+ 4597  vim bus.py
+ 4598  python3 bus.py
+ 4599  vim bus.py
+ 4600  python3 bus.py
+ 4601  vim bus.py
+ 4602  python3 bus.py
+ 4603  vim bus.py
+ 4604  jupyter notebook
+ 4605  ls
+ 4606  cd FOP
+ 4607  ls
+ 4608  cd Driverless
+ 4609  ks
+ 4610  ls
+ 4611  vim bus.py
+ 4612  python3 bus.py
+ 4613  cd ..
+ 4614  ls
+ 4615  cd Prac09
+ 4616  ls
+ 4617  ls ../Prac*
+ 4618  ls -R ../Prac*
+ 4619  ls -l ../Prac*/*.py
+ 4620  ls -l ../Prac*README*
+ 4621  ls -l ../Prac*/Readme*
+ 4622  ls -l ../Prac*/README*
+ 4623  grep .py .. /Prac*/README*
+ 4624  grep.py ../Prac*/README*
+ 4625  grep .py ../Prac*/README*
+ 4626  grep .py ../Prac*/README* | wc
+ 4627  grep .py ../Prac*/README* | wc -l
+ 4628  grep .py ../Prac*/README* > myprogs.txt
+ 4629  ls
+ 4630  vim myprogs.txt
+ 4631  grep .py ../Prac*/*.py matplotlib
+ 4632  grep .py ../Prac*/*.matplotlib
+ 4633  cd ..
+ 4634  ls
+ 4635  cd Driverless
+ 4636  ls
+ 4637  jupyter notebook
+ 4638  ls
+ 4639  jupyter notebook
+ 4640  pip3 install jupyterthemes
+ 4641  jt -t<themename>
+ 4642  jt -t <themename>
+ 4643  jt -t <Untitled.ipynb>
+ 4644  jt -t onedork
+ 4645  jupyter notebook
+ 4646  ls
+ 4647  vim bus.py
+ 4648  python3 bus.py
+ 4649  vim bus.py
+ 4650  python3 bus.py
+ 4651  vim bus.py
+ 4652  python3 bus.py
+ 4653  vim bus.py
+ 4654  python3 bus.py
+ 4655  vim bus.py
+ 4656  python3 bus.py
+ 4657  vim bus.py
+ 4658  python3 bus.py
+ 4659  vim bus.py
+ 4660  python3 bus.py
+ 4661  vim bus.py
+ 4662  python3 bus.py
+ 4663  vim bus.py
+ 4664  python3 bus.py
+ 4665  vim bus.py
+ 4666  python3 bus.py
+ 4667  vim bus.py
+ 4668  python3 bus.py
+ 4669  vim bus.py
+ 4670  python3 bus.py
+ 4671  vim bus.py
+ 4672  python3 bus.py
+ 4673  vim bus.py
+ 4674  python3 bus.py
+ 4675  vim bus.py
+ 4676  python3 bus.py
+ 4677  vim bus.py
+ 4678  python3 bus.py
+ 4679  vim bus.py
+ 4680  python3 bus.py
+ 4681  vim bus.py
+ 4682  python3 bus.py
+ 4683  vim bus.py
+ 4684  python3 bus.py
+ 4685  vim bus.py
+ 4686  python3 bus.py
+ 4687  vim bus.py
+ 4688  python3 bus.py
+ 4689  vim bus.py
+ 4690  python3 bus.py
+ 4691  jupyter notebook
+ 4692  ls
+ 4693  cd ..
+ 4694  ls
+ 4695  cd Prac07
+ 4696  ls
+ 4697  vim animals.py
+ 4698  vim shelter.py
+ 4699  ls
+ 4700  cd ..
+ 4701  ls
+ 4702  cd Prac06
+ 4703  ls
+ 4704  vim accounts.py
+ 4705  vim testAccounts.py
+ 4706  vim banking.py
+ 4707  python3 banking.py
+ 4708  vim banking.py
+ 4709  python3 banking.py
+ 4710  vim banking.py
+ 4711  python3 banking.py
+ 4712  vim banking.py
+ 4713  python3 banking.py
+ 4714  vim banking.py
+ 4715  python3 banking.py
+ 4716  vim banking.py
+ 4717  python3 banking.py
+ 4718  vim banking.py
+ 4719  python3 banking.py
+ 4720  vim banking.py
+ 4721  python3 banking.py
+ 4722  vim banking.py
+ 4723  clear
+ 4724  ls
+ 4725  vim testAccounts.py
+ 4726  vim banking.py
+ 4727  vim accounts.py
+ 4728  vim banking.py
+ 4729  vim accounts.py
+ 4730  vim testAccounts.py
+ 4731  python3 testAccounts.py
+ 4732  vim testAccounts.py
+ 4733  jupyter notebook
+ 4734  cd ..
+ 4735  ls
+ 4736  cd Driverless
+ 4737  ls
+ 4738  jupyter notebook
+ 4739  ls
+ 4740  cd ..
+ 4741  ls
+ 4742  cd Prac11
+ 4743  ls
+ 4744  cd ..
+ 4745  rmdir Prac11
+ 4746  ls
+ 4747  mkdir Prac11
+ 4748  ls
+ 4749  mkdir PracTest3
+ 4750  ls
+ 4751  cd PracTest3
+ 4752  ls
+ 4753  vim accounts.py
+ 4754  clear
+ 4755  ls
+ 4756  vim testAccounts.py
+ 4757  python3 testAccounts.py
+ 4758  vim accounts.py
+ 4759  python3 testAccounts.py
+ 4760  vim accounts.py
+ 4761  python3 testAccounts.py
+ 4762  vim testAccounts.py
+ 4763  python3 testAccounts.py
+ 4764  vim testAccounts.py
+ 4765  python3 testAccounts.py
+ 4766  vim testAccounts.py
+ 4767  python3 testAccounts.py
+ 4768  vim testAccounts.py
+ 4769  python3 testAccounts.py
+ 4770  vim testAccounts.py
+ 4771  python3 testAccounts.py
+ 4772  vim testAccounts.py
+ 4773  python3 testAccounts.py
+ 4774  vim testAccounts.py
+ 4775  cleark
+ 4776  clear
+ 4777  python3 testAccounts.py
+ 4778  clear
+ 4779  vim testAccounts.py
+ 4780  python3 testAccounts.py
+ 4781  vim testAccounts.py
+ 4782  python3 testAccounts.py
+ 4783  vim testAccounts.py
+ 4784  python3 testAccounts.py
+ 4785  vim testAccounts.py
+ 4786  ls
+ 4787  vim accounts.py
+ 4788  vim testAccounts.py
+ 4789  python3 testAccounts.py
+ 4790  vim testAccounts.py
+ 4791  python3 testAccounts.py
+ 4792  vim testAccounts.py
+ 4793  python3 testAccounts.py
+ 4794  vim testAccounts.py
+ 4795  python3 testAccounts.py
+ 4796  ls
+ 4797  clear
+ 4798  ls
+ 4799  vim accounts.py
+ 4800  python3 testAccounts.py
+ 4801  vim accounts.py
+ 4802  python3 testAccounts.py
+ 4803  vim accounts.py
+ 4804  vim testAccounts.py
+ 4805  vim accounts.py
+ 4806  python3 testAccounts.py
+ 4807  vim testAccounts.py
+ 4808  vim accounts.py
+ 4809  python3 testAccounts.py
+ 4810  vim testAccounts.py
+ 4811  vim accounts.py
+ 4812  python3 testAccounts.py
+ 4813  clear
+ 4814  python3 testAccounts.py
+ 4815  vim accounts.py
+ 4816  python3 testAccounts.py
+ 4817  vim testAccounts.py
+ 4818  ls
+ 4819  vim accounts.py
+ 4820  python3 testAccounts.py
+ 4821  vim testAccounts.py
+ 4822  vim accounts.py
+ 4823  python3 testAccounts.py
+ 4824  vim testAccounts.py
+ 4825  vim accounts.py
+ 4826  python3 testAccounts.py
+ 4827  vim accounts.py
+ 4828  python3 testAccounts.py
+ 4829  vim accounts.py
+ 4830  python3 testAccounts.py
+ 4831  vim testAccounts.py
+ 4832  vim accounts.py
+ 4833  python3 testAccounts.py
+ 4834  vim accounts.py
+ 4835  python3 testAccounts.py
+ 4836  vim accounts.py
+ 4837  python3 testAccounts.py
+ 4838  vim accounts.py
+ 4839  python3 testAccounts.py
+ 4840  vim accounts.py
+ 4841  python3 testAccounts.py
+ 4842  vim accounts.py
+ 4843  python3 testAccounts.py
+ 4844  vim accounts.py
+ 4845  python3 testAccounts.py
+ 4846  vim accounts.py
+ 4847  python3 testAccounts.py
+ 4848  vim accounts.py
+ 4849  python3 testAccounts.py
+ 4850  vim accounts.py
+ 4851  python3 testAccounts.py
+ 4852  vim accounts.py
+ 4853  python3 testAccounts.py
+ 4854  vim accounts.py
+ 4855  python3 testAccounts.py
+ 4856  vim accounts.py
+ 4857  python3 testAccounts.py
+ 4858  vim testAccounts.py
+ 4859  vim accounts.py
+ 4860  python3 testAccounts.py
+ 4861  vim accounts.py
+ 4862  python3 testAccounts.py
+ 4863  ls
+ 4864  vim accounts.py
+ 4865  vim testAccounts.py
+ 4866  vim accounts.py
+ 4867  python3 testAccounts.py
+ 4868  vim testAccounts.py
+ 4869  vim accounts.py
+ 4870  vim testAccounts.py
+ 4871  vim accounts.py
+ 4872  vim testAccounts.py
+ 4873  python3 testAccounts.py
+ 4874  vim testAccounts.py
+ 4875  python3 testAccounts.py
+ 4876  ls
+ 4877  cd ..
+ 4878  ls
+ 4879  cd PracTest3
+ 4880  ls
+ 4881  vim accounts.py
+ 4882  vim testAccounts.py
+ 4883  vim accounts.py
+ 4884  python3 testAccounts.py
+ 4885  vim testAccounts.py
+ 4886  python3 testAccounts.py
+ 4887  vim testAccounts.py
+ 4888  python3 testAccounts.py
+ 4889  vim testAccounts.py
+ 4890  vim accounts.py
+ 4891  vim testAccounts.py
+ 4892  vim accounts.py
+ 4893  vim testAccounts.py
+ 4894  python3 testAccounts.py
+ 4895  vim testAccounts.py
+ 4896  python3 testAccounts.py
+ 4897  vim testAccounts.py
+ 4898  python3 testAccounts.py
+ 4899  vim testAccounts.py
+ 4900  python3 testAccounts.py
+ 4901  :q
+ 4902  cp ../Prac01/README README
+ 4903  ls
+ 4904  vim README
+ 4905  history 50 > hist.txt
+ 4906  ls
+ 4907  vim hist.txt
+ 4908  rm hist.txt
+ 4909  ls
+ 4910  history50>hist.txt
+ 4911  history 50>hist.txt
+ 4912  ls
+ 4913  vim hist.txt
+ 4914  rm hist.txt
