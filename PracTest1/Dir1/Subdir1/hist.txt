@@ -1,0 +1,16 @@
+  912  cd Prac01
+  913  ls
+  914  cd ..
+  915  ls
+  916  cd PracTest1
+  917  ls
+  918  cd Dir1
+  919  ls
+  920  cd Subdir1
+  921  ls
+  922  clear
+  923  cp  ..
+  924  cp ../../../Prac01/README .
+  925  ls
+  926  vim README
+  927  ls
