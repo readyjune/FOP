@@ -1,0 +1,28 @@
+## Synopsis
+
+Practical 3 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README 
+growthplot.py
+growthplot.png
+numbersarray.py
+growtharray.py
+growthsubplot.py
+growthsubplot.png
+numbersbar.py
+numbersbar.png
+dosage.py
+dosage4hr.py
+repeatdosage.py
+skipdosage.py
+
+## Dependencies
+
+none
+
+## Version information
+
+<15 Mar 2021> - initial version of Practical 3 programs
+
